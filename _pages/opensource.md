@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Publications"
-permalink: /publications/
+title: "Open Source"
+permalink: /opensource/
 ---
 
 ## Working Papers
