@@ -1,12 +1,13 @@
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Sans:wght@400;600&display=swap" rel="stylesheet">
+
 <style>
 footer { display: none; }
 #theme-toggle { display: none; }
 
-/* Augmenter la largeur de la colonne de gauche*/
+/* Augmenter la largeur de la colonne de gauche */
 .sidebar.sticky {
-  width: 220px;  /* augmente ce chiffre selon besoin */
+  width: 220px;
 }
-
 
 /* Enlever le cercle autour de la photo */
 .author__avatar img {
@@ -14,12 +15,17 @@ footer { display: none; }
   box-shadow: none;
 }
 
-/* Changer la couleur rouge des liens hover */
-a:hover {
-  color: #2980b9 !important;  /* change cette couleur selon ta préférence */
+/* Changer la couleur des liens hover */
+a:hover, a:focus {
+  color: #2980b9 !important;
 }
 
+/* Polices */
+body {
+  font-family: 'IBM Plex Serif', Georgia, serif;
+}
 
-
-
+.masthead, .sidebar, .nav__list {
+  font-family: 'IBM Plex Sans', Arial, sans-serif;
+}
 </style>
