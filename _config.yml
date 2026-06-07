@@ -24,13 +24,13 @@ repository               : "shervinkarimi/website"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Shervin Karimi"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD in Economics"
+  location         : "Rennes, France"
+  employer         : "School of Public Health (EHESP)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "shervin.karimi@ehesp.fr" 
 
   # Academic websites
   academia         : # URL
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0009-0003-9553-2930"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
