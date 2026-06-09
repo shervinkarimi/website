@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 
-You can find my full CV [here](/files/CV.pdf).
 
+You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf">here</a>.
 
 
 <style>
