@@ -17,14 +17,14 @@ Shervin Karimi<br>
 ---
 
 <span>**Non-Profit vs. For-Profit Competition and Employment Implications: Evidence from Home Care**</span><br>
-Shervin Karimi · **R&R at Health Economics**
+Shervin Karimi · **R&R at Health Economics**<br>
 <a href="#" target="_blank">PDF</a> | <a href="javascript:void(0)" onclick="var d=document.getElementById('abs2');d.style.display=d.style.display===''?'none':'';this.textContent=this.textContent==='Abstract'?'Hide Abstract':'Abstract'">Abstract</a>
 <div id="abs2" style="display:none; margin-top:0.5em; padding:0.8em; background:#f8f8f8; border-left:3px solid #aaa; font-size:0.9em">This paper provides novel evidence on the effect of competition between non-profit and for-profit organizations on employment. The analysis leverages a unique reform: the removal of entry barriers for for-profit organizations in the home care sector. Using a difference-in-differences empirical strategy, I find that the deregulation has no effect on total private employment in the most populated regions, and a negative effect in sparsely populated regions. For-profit organizations mainly expand in the most populated regions, substituting non-profit employment. Non-profit organizations negatively adjust employment in less populated regions, likely to balance profits at the group level. Investigating mechanisms, I find that for-profits do not exhibit better working conditions or higher product quality. Their success appears to stem from lower group-level cost advantages, driven by concentrated operations in the most profitable markets.</div>
 
 ---
 
 <span>**Ownership Structure over the Business Cycle: Evidence from France**</span><br>
-Simon Cornée, Shervin Karimi, Véronique Thelen · **R&R at Nonprofit and Voluntary Sector Quarterly**
+Simon Cornée, Shervin Karimi, Véronique Thelen · **R&R at Nonprofit and Voluntary Sector Quarterly**<br>
 🏆 Best Paper Award, EMES, 2023<br>
 <a href="#" target="_blank">PDF</a> | <a href="javascript:void(0)" onclick="var d=document.getElementById('abs3');d.style.display=d.style.display===''?'none':'';this.textContent=this.textContent==='Abstract'?'Hide Abstract':'Abstract'">Abstract</a>
 <div id="abs3" style="display:none; margin-top:0.5em; padding:0.8em; background:#f8f8f8; border-left:3px solid #aaa; font-size:0.9em">This paper documents the comparative behavior of the third and the conventional sector over the business cycle. Third sector organizations, such as non-profits and cooperatives, have marked differences in their ownership structures compared to conventional firms. However, their sensitivity to economic fluctuations is unknown. Using a novel French dataset over the 2000-2019 period that differentiates both sectors, we find persistent lower cyclical sensitivities for the third than the conventional sector. We document the results across various sector size and business cycle proxies and provide details per third sector subgroups. Consistent with previous research on worker cooperatives, our more general findings on the third sector call for further research to uncover underlying mechanisms.</div>
