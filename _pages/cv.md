@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf">here</a>.
+You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank">here</a>.
 
 
 <style>
