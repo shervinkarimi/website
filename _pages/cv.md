@@ -106,7 +106,8 @@ You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank
   </div>
 </div>
 
-<h3>Non-Academic</h3>
+<hr style="border:none; border-top:1px solid #e0e0e0; margin: 1.5em 0 1em 0;">
+<h3 style="margin-top:0">Non-Academic</h3>
 
 <div class="cv-entry">
   <span class="cv-year">2019–2021</span>
