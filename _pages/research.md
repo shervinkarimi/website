@@ -33,9 +33,10 @@ S. Cornée, S. Karimi, V. Thelen · **R&R at Nonprofit and Voluntary Sector Quar
 
 <div id="abs3" style="display:none; margin-top:0.5em; padding:0.8em; background:#f8f8f8; border-left:3px solid #aaa; font-size:0.9em">This paper documents the comparative behavior of the third and the conventional sector over the business cycle. Third sector organizations, such as non-profits and cooperatives, have marked differences in their ownership structures compared to conventional firms. However, their sensitivity to economic fluctuations is unknown. Using a novel French dataset over the 2000-2019 period that differentiates both sectors, we find persistent lower cyclical sensitivities for the third than the conventional sector. We document the results across various sector size and business cycle proxies and provide details per third sector subgroups. Consistent with previous research on worker cooperatives, our more general findings on the third sector call for further research to uncover underlying mechanisms.</div>
 
----
 
-<hr style="border:none; border-top:2px solid #494e52; margin: 2em 0 1.5em 0;">
+
+
+<hr style="border:none; border-top:1px solid #999; margin: 3em 0 1.5em 0;">
 
 # Work in Progress
 
