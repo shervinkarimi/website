@@ -9,10 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-
-
 You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank">here</a>.
-
 
 <style>
 .cv-section h2 {
@@ -25,6 +22,15 @@ You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank
   letter-spacing: 0.05em;
 }
 
+.cv-section h3 {
+  margin-top: 1.2em;
+  margin-bottom: 0.8em;
+  font-size: 1em;
+  color: #494e52;
+  font-style: italic;
+  font-weight: 600;
+}
+
 .cv-entry {
   display: grid;
   grid-template-columns: 110px 1fr;
@@ -34,8 +40,9 @@ You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank
 }
 
 .cv-year {
-  font-size: 0.85em;
-  color: #666;
+  font-size: 1em;
+  font-weight: 600;
+  color: #333;
   padding-top: 2px;
   white-space: nowrap;
 }
@@ -60,7 +67,9 @@ You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank
 
 <div class="cv-section">
 
-<h2>Academic Positions</h2>
+<h2>Positions</h2>
+
+<h3>Academic</h3>
 
 <div class="cv-entry">
   <span class="cv-year">2025–present</span>
@@ -97,7 +106,7 @@ You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank
   </div>
 </div>
 
-<h2>Non-Academic Positions</h2>
+<h3>Non-Academic</h3>
 
 <div class="cv-entry">
   <span class="cv-year">2019–2021</span>
