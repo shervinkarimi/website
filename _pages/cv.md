@@ -74,7 +74,7 @@ You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank
 <div class="cv-entry">
   <span class="cv-year">2025–present</span>
   <div>
-    <div class="cv-title">Post-Doctoral – Research Fellow</div>
+    <div class="cv-title">Post-Doctoral · Research Fellow</div>
     <div class="cv-institution">French School of Public Health (EHESP) · Arènes (CNRS UMR 6051 & Inserm ERL 1309) </div>
   </div>
 </div>
@@ -82,7 +82,7 @@ You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank
 <div class="cv-entry">
   <span class="cv-year">2021–2025</span>
   <div>
-    <div class="cv-title">Ph.D. Candidate – Research Fellow</div>
+    <div class="cv-title">Ph.D. Candidate · Research Fellow</div>
     <div class="cv-institution">University of Rennes · CREM (CNRS UMR 6211)</div>
   </div>
 </div>
@@ -153,7 +153,7 @@ You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank
   <span class="cv-year">2012–2013</span>
   <div>
     <div class="cv-title">MSc Economics of Markets and Organizations</div>
-    <div class="cv-institution">Toulouse School of Economics</div>
+    <div class="cv-institution">Toulouse School of Economics · Toulouse</div>
   </div>
 </div>
 
@@ -161,7 +161,7 @@ You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank
   <span class="cv-year">2010–2013</span>
   <div>
     <div class="cv-title">MSc Air Transport Engineering</div>
-    <div class="cv-institution">Ecole Nationale de l'Aviation Civile, Toulouse</div>
+    <div class="cv-institution">Ecole Nationale de l'Aviation Civile · Toulouse</div>
   </div>
 </div>
 
@@ -169,7 +169,7 @@ You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank
   <span class="cv-year">2008–2010</span>
   <div>
     <div class="cv-title">Preparatory School · Mathematics & Physics</div>
-    <div class="cv-institution">Lycée Paul Cézanne, Aix-en-Provence</div>
+    <div class="cv-institution">Lycée Paul Cézanne · Aix-en-Provence</div>
   </div>
 </div>
 
