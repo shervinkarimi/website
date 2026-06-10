@@ -41,7 +41,7 @@ You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank
 
 .cv-year {
   font-size: 1em;
-  font-weight: 600;
+  font-weight: 400;
   color: #333;
   padding-top: 2px;
   white-space: nowrap;
