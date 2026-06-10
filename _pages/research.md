@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Working Papers
+# Working Papers
 
 **A Non-Profit Discount? Wage Gap Analysis and Monetary Motives of Non-Profit and For-Profit Employees**<br>
 S. Karimi<br>
@@ -35,7 +35,7 @@ S. Cornée, S. Karimi, V. Thelen · **R&R at Nonprofit and Voluntary Sector Quar
 
 ---
 
-## Work in Progress
+# Work in Progress
 
 **Ownership Structure and Absenteeism**<br>
 S. Karimi, S. Cornée, V. Thelen
