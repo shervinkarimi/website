@@ -75,7 +75,7 @@ You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank
   <span class="cv-year">2025–present</span>
   <div>
     <div class="cv-title">Post-Doctoral – Research Fellow</div>
-    <div class="cv-institution">Ecole des Hautes Etudes en Santé Publique (EHESP)</div>
+    <div class="cv-institution">French School of Public Health (EHESP) · Arènes (CNRS UMR 6051 \& Inserm ERL 1309) </div>
   </div>
 </div>
 
@@ -83,8 +83,7 @@ You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank
   <span class="cv-year">2021–2025</span>
   <div>
     <div class="cv-title">Ph.D. Candidate – Research Fellow</div>
-    <div class="cv-institution">University of Rennes</div>
-    <div class="cv-detail">Research Center in Economics and Management (CREM - CNRS UMR 6211)</div>
+    <div class="cv-institution">University of Rennes · CREM (CNRS UMR 6211)</div>
   </div>
 </div>
 
