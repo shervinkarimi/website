@@ -113,8 +113,7 @@ You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank
   <span class="cv-year">2019–2021</span>
   <div>
     <div class="cv-title">Product Marketing Manager</div>
-    <div class="cv-institution">ATR – Airbus Group <span style="font-weight:400">· Aircraft manufacturer, Toulouse</span></div>
-    <div class="cv-detail">Aircraft economic analysis: competition and market analysis, P&L estimations, ticket pricing studies, environmental impact. Presenting to airlines' board of management.</div>
+    <div class="cv-institution">ATR (Airbus Group) <span style="font-weight:400">· Aircraft manufacturer, Toulouse</span></div>
   </div>
 </div>
 
@@ -123,7 +122,6 @@ You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank
   <div>
     <div class="cv-title">Revenue Management Consultant</div>
     <div class="cv-institution">N&C <span style="font-weight:400">· Consulting in pricing, Paris</span></div>
-    <div class="cv-detail">Advising analysts, top management and CEOs; revenue management training. Industries: airline, hospitality, railway, e-commerce.</div>
   </div>
 </div>
 
@@ -132,7 +130,6 @@ You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank
   <div>
     <div class="cv-title">Revenue Management Analyst</div>
     <div class="cv-institution">Corsair <span style="font-weight:400">· Airline, Paris</span></div>
-    <div class="cv-detail">Ticket pricing on a 200M€/year route portfolio; fleet replacement analysis; development of sales decision-support tools.</div>
   </div>
 </div>
 
@@ -144,10 +141,11 @@ You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank
     <div class="cv-title">Ph.D., Economics · University of Rennes</div>
     <div class="cv-institution">CREM - CNRS UMR 6211</div>
     <div class="cv-detail">
-      <em>"Four essays on ownership structure and organizational behavior"</em><br>
-      Supervisors: Simon Cornée, Véronique Thelen<br>
-      Referees: Gabriel Burdin, François-Charles Wolff · President: Josselin Thuilliez<br>
-      Jury: Anaïs Perilleux, Damien Roussilière
+      Title: "Four essays on ownership structure and organizational behavior"<br>
+      President: Josselin Thuilliez<br>
+      Referees: Gabriel Burdin, François-Charles Wolff<br>
+      Jury: Anaïs Perilleux, Damien Roussilière<br>
+      Supervisors: Simon Cornée, Véronique Thelen
     </div>
   </div>
 </div>
