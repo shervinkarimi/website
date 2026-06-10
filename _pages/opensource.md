@@ -5,4 +5,4 @@ permalink: /opensource/
 ---
 
 
-This page provides open-source code for extracting data from the French National Health Care Database (SNDS).
+This page will provide open-source code for extracting data from the French National Health Care Database (SNDS).
