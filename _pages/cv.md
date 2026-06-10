@@ -27,7 +27,7 @@ You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank
   margin-bottom: 0.8em;
   font-size: 1em;
   color: #494e52;
-  font-style: italic;
+  font-style: normal;
   font-weight: 600;
 }
 
@@ -60,8 +60,8 @@ You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank
 
 .cv-detail {
   font-size: 0.88em;
-  color: #666;
-  font-style: italic;
+  color: #494e52;
+  font-style: normal;
 }
 </style>
 
