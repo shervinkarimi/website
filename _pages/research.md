@@ -19,7 +19,7 @@ S. Karimi<br>
 
 ---
 
-<span>**Non-Profit vs. For-Profit Competition and Employment Implications: Evidence from Home Care**</span><br>
+**Non-Profit vs. For-Profit Competition and Employment Implications: Evidence from Home Care**<br>
 S. Karimi · **R&R at Health Economics**<br>
 <a href="javascript:void(0)" onclick="var d=document.getElementById('abs2');d.style.display=d.style.display===''?'none':'';this.textContent=this.textContent==='Abstract'?'Abstract':'Abstract'">Abstract</a> | <a href="#" target="_blank">PDF</a>
 
@@ -27,7 +27,7 @@ S. Karimi · **R&R at Health Economics**<br>
 
 ---
 
-<span>**Ownership Structure over the Business Cycle: Evidence from France**</span><br>
+**Ownership Structure over the Business Cycle: Evidence from France**<br>
 S. Cornée, S. Karimi, V. Thelen · **R&R at Nonprofit and Voluntary Sector Quarterly**<br>
 <a href="javascript:void(0)" onclick="var d=document.getElementById('abs3');d.style.display=d.style.display===''?'none':'';this.textContent=this.textContent==='Abstract'?'Abstract':'Abstract'">Abstract</a> | <a href="#" target="_blank">PDF</a>
 
@@ -37,20 +37,20 @@ S. Cornée, S. Karimi, V. Thelen · **R&R at Nonprofit and Voluntary Sector Quar
 
 ## Work in Progress
 
-<span>**Ownership Structure and Absenteeism**</span><br>
+**Ownership Structure and Absenteeism**<br>
 S. Karimi, S. Cornée, V. Thelen
 
 ---
 
-<span>**The Impact of Emergency Call Centers: Evidence from France**</span><br>
+**The Impact of Emergency Call Centers: Evidence from France**<br>
 S. Karimi, J. Mousquès, T. Pelloquin, N. Sirven
 
 ---
 
-<span>**The Visible Hand of Emergency Care: Evidence from Emergency Department Gatekeeping**</span><br>
+**The Visible Hand of Emergency Care: Evidence from Emergency Department Gatekeeping**<br>
 S. Karimi, J. Mousquès, T. Pelloquin, N. Sirven
 
 ---
 
-<span>**Hospital-at-Home: A Win-Win for Patients, Health Professionals, and Insurers?**</span><br>
+**Hospital-at-Home: A Win-Win for Patients, Health Professionals, and Insurers?**<br>
 S. Karimi, T. Pelloquin
