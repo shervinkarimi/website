@@ -164,7 +164,7 @@ You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank
   <span class="cv-year">2010–2013</span>
   <div>
     <div class="cv-title">MSc Air Transport Engineering</div>
-    <div class="cv-institution">Ecole Nationale de l'Aviation Civile</div>
+    <div class="cv-institution">French School of Civil Aviation (ENAC)</div>
   </div>
 </div>
 
