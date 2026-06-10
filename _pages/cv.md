@@ -156,7 +156,7 @@ You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank
   <span class="cv-year">2012–2013</span>
   <div>
     <div class="cv-title">MSc Economics of Markets and Organizations</div>
-    <div class="cv-institution">Toulouse School of Economics · Toulouse</div>
+    <div class="cv-institution">Toulouse School of Economics</div>
   </div>
 </div>
 
@@ -164,7 +164,7 @@ You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank
   <span class="cv-year">2010–2013</span>
   <div>
     <div class="cv-title">MSc Air Transport Engineering</div>
-    <div class="cv-institution">Ecole Nationale de l'Aviation Civile · Toulouse</div>
+    <div class="cv-institution">Ecole Nationale de l'Aviation Civile</div>
   </div>
 </div>
 
@@ -172,7 +172,7 @@ You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank
   <span class="cv-year">2008–2010</span>
   <div>
     <div class="cv-title">Preparatory School · Mathematics & Physics</div>
-    <div class="cv-institution">Lycée Paul Cézanne · Aix-en-Provence</div>
+    <div class="cv-institution">Lycée Paul Cézanne</div>
   </div>
 </div>
 
