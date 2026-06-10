@@ -45,11 +45,14 @@ You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank
   color: #333;
   padding-top: 0;
   white-space: nowrap;
+  line-height: 1.4;
 }
 
 .cv-title {
   font-weight: 600;
-  margin-bottom: 2px;
+  font-size: 1em;
+  margin-bottom: 0;
+  line-height: 1.4;
 }
 
 .cv-institution {
