@@ -75,7 +75,7 @@ You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank
   <span class="cv-year">2025–present</span>
   <div>
     <div class="cv-title">Post-Doctoral – Research Fellow</div>
-    <div class="cv-institution">French School of Public Health (EHESP) · Arènes (CNRS UMR 6051 \& Inserm ERL 1309) </div>
+    <div class="cv-institution">French School of Public Health (EHESP) · Arènes (CNRS UMR 6051 & Inserm ERL 1309) </div>
   </div>
 </div>
 
@@ -112,7 +112,7 @@ You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank
   <span class="cv-year">2019–2021</span>
   <div>
     <div class="cv-title">Product Marketing Manager</div>
-    <div class="cv-institution">ATR (Airbus Group) <span style="font-weight:400">· Aircraft manufacturer, Toulouse</span></div>
+    <div class="cv-institution">ATR (Airbus Group) <span style="font-weight:400">· Aircraft manufacturer · Toulouse</span></div>
   </div>
 </div>
 
@@ -120,7 +120,7 @@ You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank
   <span class="cv-year">2016–2019</span>
   <div>
     <div class="cv-title">Revenue Management Consultant</div>
-    <div class="cv-institution">N&C <span style="font-weight:400">· Consulting in pricing, Paris</span></div>
+    <div class="cv-institution">N&C <span style="font-weight:400">· Consulting firm in pricing · Paris</span></div>
   </div>
 </div>
 
@@ -128,7 +128,7 @@ You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank
   <span class="cv-year">2013–2016</span>
   <div>
     <div class="cv-title">Revenue Management Analyst</div>
-    <div class="cv-institution">Corsair <span style="font-weight:400">· Airline, Paris</span></div>
+    <div class="cv-institution">Corsair <span style="font-weight:400">· Airline · Paris</span></div>
   </div>
 </div>
 
@@ -137,8 +137,8 @@ You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank
 <div class="cv-entry">
   <span class="cv-year">2021–2025</span>
   <div>
-    <div class="cv-title">Ph.D., Economics · University of Rennes</div>
-    <div class="cv-institution">CREM - CNRS UMR 6211</div>
+    <div class="cv-title">Ph.D. Economics</div>
+    <div class="cv-institution">University of Rennes · CREM (CNRS UMR 6211)</div>
     <div class="cv-detail">
       Title: "Four essays on ownership structure and organizational behavior"<br>
       President: Josselin Thuilliez<br>
@@ -152,7 +152,7 @@ You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank
 <div class="cv-entry">
   <span class="cv-year">2012–2013</span>
   <div>
-    <div class="cv-title">MSc, Economics of Markets and Organizations</div>
+    <div class="cv-title">MSc Economics of Markets and Organizations</div>
     <div class="cv-institution">Toulouse School of Economics</div>
   </div>
 </div>
@@ -160,7 +160,7 @@ You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank
 <div class="cv-entry">
   <span class="cv-year">2010–2013</span>
   <div>
-    <div class="cv-title">MSc, Air Transport Engineering</div>
+    <div class="cv-title">MSc Air Transport Engineering</div>
     <div class="cv-institution">Ecole Nationale de l'Aviation Civile, Toulouse</div>
   </div>
 </div>
