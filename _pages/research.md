@@ -36,7 +36,7 @@ S. Cornée, S. Karimi, V. Thelen · **R&R at Nonprofit and Voluntary Sector Quar
 
 
 
-<hr style="border:none; border-top:1px solid #999; margin: 3em 0 1.5em 0;">
+<div style="margin-top: 3em;"></div>
 
 # Work in Progress
 
