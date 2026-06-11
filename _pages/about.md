@@ -11,6 +11,6 @@ I am a post-doctoral researcher in Economics at the <a href="https://www.ehesp.f
 
 I am an applied economist working on healthcare organization, firm ownership structure, and more broadly on the evaluation of public policies.<br>
 **Main field:** Health Econimics<br>
-**Secondary field:** Labour Economcics, Organizational Economics<br>
+**Secondary field:** Labor Economcics, Organizational Economics<br>
 
 
