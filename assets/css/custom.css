@@ -45,17 +45,28 @@
 }
 
 
-.paper-entry {
-  margin-bottom: 1.5em;
-}
-
-.paper-entry .paper-meta {
-  font-size: 0.88em;
-  margin-top: 0.2em;
-}
-
 .cv-detail {
   font-size: 0.82em;
   opacity: 0.75;
   font-style: normal;
+}
+
+
+
+.paper-entry {
+  margin-bottom: 1.5em;
+}
+
+.paper-meta {
+  font-size: 0.88em;
+  margin-top: 0.2em;
+}
+
+.paper-abstract {
+  display: none;
+  margin-top: 0.5em;
+  padding: 0.8em;
+  background: #f8f8f8;
+  border-left: 3px solid #aaa;
+  font-size: 0.9em;
 }
