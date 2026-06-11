@@ -38,7 +38,11 @@ S. Cornée, S. Karimi, V. Thelen · **R&R at Nonprofit and Voluntary Sector Quar
 
 <div style="margin-top: 4em;"></div>
 
-# Work in Progress
+
+
+
+
+<h1 style="border-bottom: 1.5px solid #ccc; padding-bottom: 6px;">Work in Progress</h1>
 
 **Ownership Structure and Absenteeism**<br>
 S. Karimi, S. Cornée, V. Thelen
