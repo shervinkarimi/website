@@ -32,13 +32,13 @@ author_profile: true
 ---
 
 <div class="paper-entry">
-<strong>Ownership Structure over the Business Cycle: Evidence from France</strong>
+<strong>Comparing the Employment Sensitivity of Third Sector and Conventional Organisations over the Business Cycle</strong>
 <div class="paper-meta">S. Cornée, S. Karimi, V. Thelen · <strong>R&R Nonprofit and Voluntary Sector Quarterly</strong><br>
-<a href="javascript:void(0)" onclick="var d=document.getElementById('abs3');d.style.display=d.style.display===''?'none':'';this.textContent=this.textContent==='Abstract'?'Abstract':'Abstract'">Abstract</a> | <a href="#" target="_blank">PDF</a>
+<a href="javascript:void(0)" onclick="var d=document.getElementById('abs3');d.style.display=d.style.display===''?'none':'';this.textContent=this.textContent==='Abstract'?'Abstract':'Abstract'">Abstract</a> | <a href="{{ site.baseurl }}/files/Third_Sector_over_Business_Cycle.pdf" target="_blank">PDF</a>
 </div>
 </div>
 
-<div id="abs3" class="paper-abstract">This paper documents the comparative behavior of the third and the conventional sector over the business cycle. Third sector organizations, such as non-profits and cooperatives, have marked differences in their ownership structures compared to conventional firms. However, their sensitivity to economic fluctuations is unknown. Using a novel French dataset over the 2000-2019 period that differentiates both sectors, we find persistent lower cyclical sensitivities for the third than the conventional sector. We document the results across various sector size and business cycle proxies and provide details per third sector subgroups. Consistent with previous research on worker cooperatives, our more general findings on the third sector call for further research to uncover underlying mechanisms.</div>
+<div id="abs3" class="paper-abstract">This paper analyses, from a comparative perspective, the behaviour of private organisations characterised by distinct ownership structures over the business cycle. In particular, we gauge the sensitivity of third-sector employment (encompassing nonprofits and cooperatives) to macroeconomic fluctuations, relative to that of the conventional sector (comprising for-profit organisations). Drawing on a recently released French dataset covering the period from 2000 to 2019, our analysis reveals that the cyclical sensitivity of the third sector (i.e., social and solidarity economy sector) is systematically lower than that of the conventional sector. This difference is largely driven by the third sector’s less cyclical behaviour during downturns. Our findings resist an array of robustness checks and are not affected by strong heterogeneity across types of activities and regional characteristics. Additionally, the cyclicality of the number of establishments is greater in the third sector than in the conventional sector, potentially contributing to the difference in employment sensitivities. </div>
 
 <div style="margin-top: 4em;"></div>
 
