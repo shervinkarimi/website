@@ -1,0 +1,51 @@
+.cv-section h2 {
+  border-bottom: 2px solid currentColor;
+  padding-bottom: 4px;
+  margin-top: 2em;
+  margin-bottom: 1em;
+  font-size: 1.1em;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.cv-section h3 {
+  margin-top: 1.2em;
+  margin-bottom: 0.8em;
+  font-size: 0.95em;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.cv-entry {
+  display: grid;
+  grid-template-columns: 110px 1fr;
+  gap: 0 1.2em;
+  margin-bottom: 1.2em;
+  align-items: start;
+}
+
+.cv-year {
+  font-size: 0.9em;
+  font-weight: 400;
+  white-space: nowrap;
+  line-height: 1.4;
+}
+
+.cv-title {
+  font-weight: 600;
+  font-size: 0.95em;
+  margin-bottom: 0;
+  line-height: 1.4;
+}
+
+.cv-institution {
+  font-size: 0.88em;
+  margin-bottom: 2px;
+  opacity: 0.85;
+}
+
+.cv-detail {
+  font-size: 0.82em;
+  opacity: 0.75;
+  font-style: normal;
+}
