@@ -50,10 +50,13 @@
   font-style: normal;
 }
 
-
-
 .paper-entry {
   margin-bottom: 1.5em;
+}
+
+.paper-entry strong {
+  font-family: inherit;
+  font-weight: 600;
 }
 
 .paper-meta {
