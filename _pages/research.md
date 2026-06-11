@@ -23,7 +23,7 @@ author_profile: true
 <div class="paper-entry">
 <strong>Non-Profit vs. For-Profit Competition and Employment Implications: Evidence from Home Care</strong>
 <div class="paper-meta">S. Karimi · <strong>R&R Health Economics</strong><br>
-<a href="javascript:void(0)" onclick="var d=document.getElementById('abs2');d.style.display=d.style.display===''?'none':'';this.textContent=this.textContent==='Abstract'?'Abstract':'Abstract'">Abstract</a> | <a href="{{ site.baseurl }}/files/NP_FP_Competition" target="_blank">PDF</a>
+<a href="javascript:void(0)" onclick="var d=document.getElementById('abs2');d.style.display=d.style.display===''?'none':'';this.textContent=this.textContent==='Abstract'?'Abstract':'Abstract'">Abstract</a> | <a href="{{ site.baseurl }}/files/NP_FP_Competition.pdf" target="_blank">PDF</a>
 </div>
 </div>
 
