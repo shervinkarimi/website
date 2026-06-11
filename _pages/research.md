@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-# Working Papers
+<h1 style="border-bottom: 1.5px solid #ccc; padding-bottom: 6px;">Working Papers</h1>
 
 **A Non-Profit Discount? Wage Gap Analysis and Monetary Motives of Non-Profit and For-Profit Employees**<br>
 S. Karimi<br>
