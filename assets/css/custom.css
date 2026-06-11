@@ -44,6 +44,16 @@
   opacity: 0.85;
 }
 
+
+.paper-entry {
+  margin-bottom: 1.5em;
+}
+
+.paper-entry .paper-meta {
+  font-size: 0.88em;
+  margin-top: 0.2em;
+}
+
 .cv-detail {
   font-size: 0.82em;
   opacity: 0.75;
