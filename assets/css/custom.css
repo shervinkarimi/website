@@ -31,21 +31,20 @@
   line-height: 1.4;
 }
 
-.cv-title {
+.cv-section .cv-title {
   font-weight: 600;
   font-size: 0.95em;
   margin-bottom: 0;
   line-height: 1.4;
 }
 
-.cv-institution {
+.cv-section .cv-institution {
   font-size: 0.88em;
   margin-bottom: 2px;
   opacity: 0.85;
 }
 
-
-.cv-detail {
+.cv-section .cv-detail {
   font-size: 0.82em;
   opacity: 0.75;
   font-style: normal;
