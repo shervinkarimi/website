@@ -13,7 +13,7 @@
   margin-bottom: 0.8em;
   font-size: 0.95em;
   font-style: normal;
-  font-weight: 600;
+  font-weight: 1000;
 }
 
 .cv-entry {
@@ -32,7 +32,7 @@
 }
 
 .cv-section .cv-title {
-  font-weight: 600;
+  font-weight: 1000;
   font-size: 0.95em;
   margin-bottom: 0;
   line-height: 1.4;
@@ -56,7 +56,7 @@
 
 .paper-entry strong {
   font-family: inherit;
-  font-weight: 800 !important;
+  font-weight: 1000 !important;
 }
 
 
