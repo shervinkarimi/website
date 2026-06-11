@@ -63,7 +63,7 @@
 }
 
 .paper-abstract {
-  display: none;
+  display: none !important;
   margin-top: 0.5em;
   padding: 0.8em;
   background: #f8f8f8;
