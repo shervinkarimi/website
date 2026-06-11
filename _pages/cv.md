@@ -11,62 +11,6 @@ redirect_from:
 
 You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank">here</a>.
 
-<style>
-.cv-section h2 {
-  border-bottom: 2px solid #494e52;
-  padding-bottom: 4px;
-  margin-top: 2em;
-  margin-bottom: 1em;
-  font-size: 1.2em;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-}
-
-.cv-section h3 {
-  margin-top: 1.2em;
-  margin-bottom: 0.8em;
-  font-size: 1em;
-  color: #494e52;
-  font-style: normal;
-  font-weight: 600;
-}
-
-.cv-entry {
-  display: grid;
-  grid-template-columns: 110px 1fr;
-  gap: 0 1.2em;
-  margin-bottom: 1.2em;
-  align-items: start;
-}
-
-.cv-year {
-  font-size: 1em;
-  font-weight: 400;
-  color: #333;
-  padding-top: 0;
-  white-space: nowrap;
-  line-height: 1.4;
-}
-
-.cv-title {
-  font-weight: 600;
-  font-size: 1em;
-  margin-bottom: 0;
-  line-height: 1.4;
-}
-
-.cv-institution {
-  font-size: 0.92em;
-  color: #444;
-  margin-bottom: 2px;
-}
-
-.cv-detail {
-  font-size: 0.88em;
-  color: #494e52;
-  font-style: normal;
-}
-</style>
 
 <div class="cv-section">
 
