@@ -22,7 +22,7 @@ author_profile: true
 
 <div class="paper-entry">
 <strong>Non-Profit vs. For-Profit Competition and Employment Implications: Evidence from Home Care</strong>
-<div class="paper-meta">S. Karimi · <strong>R&R at Health Economics</strong><br>
+<div class="paper-meta">S. Karimi · <strong>R&R Health Economics</strong><br>
 <a href="javascript:void(0)" onclick="var d=document.getElementById('abs2');d.style.display=d.style.display==='none'?'block':'none';">Abstract</a> | <a href="{{ site.baseurl }}/files/NP_FP_Competition.pdf" target="_blank">PDF</a>
 </div>
 </div>
@@ -33,7 +33,7 @@ author_profile: true
 
 <div class="paper-entry">
 <strong>Comparing the Employment Sensitivity of Third Sector and Conventional Organisations over the Business Cycle</strong>
-<div class="paper-meta">S. Cornée, S. Karimi, V. Thelen · <strong>R&R at Nonprofit and Voluntary Sector Quarterly</strong><br>
+<div class="paper-meta">S. Cornée, S. Karimi, V. Thelen · <strong>R&R Nonprofit and Voluntary Sector Quarterly</strong><br>
 <a href="javascript:void(0)" onclick="var d=document.getElementById('abs3');d.style.display=d.style.display==='none'?'block':'none';">Abstract</a> | <a href="{{ site.baseurl }}/files/Third_Sector_over_Business_Cycle.pdf" target="_blank">PDF</a>
 </div>
 </div>
