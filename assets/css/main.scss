@@ -41,3 +41,9 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+
+/* Agrandir la photo de profil */
+.author__avatar img {
+  max-width: 200px !important;
+}
