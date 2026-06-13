@@ -6,7 +6,7 @@ permalink: /opensource/
 
 
 <h2>Latex Templates</h2>
-Look at Kyle Butt's Latex templates <a href="https://github.com/kylebutts/latex-templates" target="_blank">here</a>
+Look at Kyle Butts Latex templates <a href="https://github.com/kylebutts/latex-templates" target="_blank">here</a>
 
 ---
 
