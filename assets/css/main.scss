@@ -43,11 +43,9 @@
 ;
 
 
-.author__avatar {
-  width: 350px !important;
-}
-
 .author__avatar img {
-  max-width: 100% !important;
-  width: 100% !important;
+  object-fit: cover;
+  object-position: center top;  /* ajuste selon où est ton visage */
+  transform: scale(1.3);  /* zoom — augmente ce chiffre */
+  transform-origin: center top;
 }
