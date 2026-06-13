@@ -10,7 +10,7 @@ Look at Kyle Butts Latex templates <a href="https://github.com/kylebutts/latex-t
 
 
 
-
+<div style="margin-top: 4em;"></div>
 <h2 style="border-bottom: 1.5px solid #ccc; padding-bottom: 6px;">Data Extraction Code</h2>
 From the French National Health Database (SNDS)
 
