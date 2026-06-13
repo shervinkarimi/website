@@ -73,3 +73,8 @@
   border-left: 3px solid #aaa;
   font-size: 0.9em;
 }
+
+
+strong {
+  font-weight: 700;
+}
