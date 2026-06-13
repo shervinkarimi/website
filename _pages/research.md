@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<h1 style="border-bottom: 2px solid currentColor; padding-bottom: 4px;">Working Papers</h1>
+<h2 style="border-bottom: 2px solid currentColor; padding-bottom: 4px;">Working Papers</h2>
 
 <div class="paper-entry">
 <strong>A Non-Profit Discount? Wage Gap Analysis and Monetary Motives of Non-Profit and For-Profit Employees</strong>
