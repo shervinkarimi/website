@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<h2 style="border-bottom: 2px solid currentColor; padding-bottom: 4px;">Working Papers</h2>
+<h2 style="border-bottom: 1.5px solid #ccc; padding-bottom: 6px;">Working Papers</h2>
 
 <div class="paper-entry">
 <strong>A Non-Profit Discount? Wage Gap Analysis and Monetary Motives of Non-Profit and For-Profit Employees</strong>
@@ -45,7 +45,7 @@ author_profile: true
 
 
 
-<h1 style="border-bottom: 2px solid currentColor; padding-bottom: 4px;">Work in Progress</h1>
+<h2 style="border-bottom: 1.5px solid #ccc; padding-bottom: 6px;">Work in Progress</h2>
 
 <div class="paper-entry">
 <strong>Ownership Structure and Absenteeism</strong>
