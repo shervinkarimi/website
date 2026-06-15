@@ -33,7 +33,7 @@ author_profile: true
 
 <div class="paper-entry">
 <strong>Comparing the Employment Sensitivity of Third Sector and Conventional Organisations over the Business Cycle</strong>
-<div class="paper-meta">S. Cornée, S. Karimi, V. Thelen · <strong>R&R Nonprofit and Voluntary Sector Quarterly</strong><br>
+<div class="paper-meta"><a href="https://sites.google.com/site/corneebzh/" target="_blank" style="color: inherit; text-decoration: none;">S. Cornée</a>, S. Karimi, <a href="https://sites.google.com/site/thelenveronique/" target="_blank" style="color: inherit; text-decoration: none;">V. Thelen</a> · <strong>R&R Nonprofit and Voluntary Sector Quarterly</strong><br>
 <a href="javascript:void(0)" onclick="var d=document.getElementById('abs3');d.style.display=d.style.display==='none'?'block':'none';">Abstract</a> | <a href="{{ site.baseurl }}/files/Third_Sector_over_Business_Cycle.pdf" target="_blank">PDF</a>
 </div>
 </div>
@@ -49,14 +49,14 @@ author_profile: true
 
 <div class="paper-entry">
 <strong>Ownership Structure and Absenteeism</strong>
-<div class="paper-meta">S. Karimi, S. Cornée, V. Thelen</div>
+<div class="paper-meta">S. Karimi, <a href="https://sites.google.com/site/corneebzh/" target="_blank" style="color: inherit; text-decoration: none;">S. Cornée</a>, <a href="https://sites.google.com/site/thelenveronique/" target="_blank" style="color: inherit; text-decoration: none;">V. Thelen</a></div>
 </div>
 
 ---
 
 <div class="paper-entry">
 <strong>The Visible Hand of Emergency Care</strong>
-<div class="paper-meta">S. Karimi, J. Mousquès, T. Pelloquin, N. Sirven</div>
+<div class="paper-meta">S. Karimi, <a href="https://www.irdes.fr/recherche/equipe/mousques-julien.html" target="_blank" style="color: inherit; text-decoration: none;">J. Mousquès</a>, T. Pelloquin, <a href="https://www.ehesp.fr/annuaire/enseignement-recherche/nicolas-sirven/" target="_blank" style="color: inherit; text-decoration: none;">N. Sirven</a></div>
 </div>
 
 ---
@@ -70,10 +70,8 @@ author_profile: true
 
 <div class="paper-entry">
 <strong>The Impact of Emergency Call Centers: Evidence from France</strong>
-<div class="paper-meta">S. Karimi, J. Mousquès, T. Pelloquin, N. Sirven</div>
+<div class="paper-meta">S. Karimi, <a href="https://www.irdes.fr/recherche/equipe/mousques-julien.html" target="_blank" style="color: inherit; text-decoration: none;">J. Mousquès</a>, T. Pelloquin, <a href="https://www.ehesp.fr/annuaire/enseignement-recherche/nicolas-sirven/" target="_blank" style="color: inherit; text-decoration: none;">N. Sirven</a></div>
 </div>
-
-
 
 ---
 
