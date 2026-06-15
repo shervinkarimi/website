@@ -55,16 +55,25 @@ author_profile: true
 ---
 
 <div class="paper-entry">
-<strong>The Impact of Emergency Call Centers: Evidence from France</strong>
+<strong>The Visible Hand of Emergency Care</strong>
 <div class="paper-meta">S. Karimi, J. Mousquès, T. Pelloquin, N. Sirven</div>
 </div>
 
 ---
 
 <div class="paper-entry">
-<strong>The Visible Hand of Emergency Care: Evidence from Emergency Department Gatekeeping</strong>
+<strong>Access to Care and Avoidable Consultations: The Redistributive Effects of e-Consultations</strong>
+<div class="paper-meta">S. Karimi, <a href="https://sites.google.com/view/mathieu-lambotte" target="_blank" style="color: inherit; text-decoration: none;">M. Lambotte</a></div>
+</div>
+
+---
+
+<div class="paper-entry">
+<strong>The Impact of Emergency Call Centers: Evidence from France</strong>
 <div class="paper-meta">S. Karimi, J. Mousquès, T. Pelloquin, N. Sirven</div>
 </div>
+
+
 
 ---
 
