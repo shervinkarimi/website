@@ -56,7 +56,7 @@ author_profile: true
 
 <div class="paper-entry">
 <strong>The Visible Hand of Emergency Care</strong>
-<div class="paper-meta">S. Karimi, <a href="https://www.irdes.fr/recherche/equipe/mousques-julien.html" target="_blank" style="color: inherit; text-decoration: none;">J. Mousquès</a>, T. Pelloquin, <a href="https://www.ehesp.fr/annuaire/enseignement-recherche/nicolas-sirven/" target="_blank" style="color: inherit; text-decoration: none;">N. Sirven</a></div>
+<div class="paper-meta">S. Karimi, <a href="https://www.irdes.fr/recherche/equipe/mousques-julien.html" target="_blank" style="color: inherit; text-decoration: none;">J. Mousquès</a>, <a href="https://www.parisschoolofeconomics.eu/personnes/thomas-pelloquin/" target="_blank" style="color: inherit; text-decoration: none;">T. Pelloquin</a>, <a href="https://www.ehesp.fr/annuaire/enseignement-recherche/nicolas-sirven/" target="_blank" style="color: inherit; text-decoration: none;">N. Sirven</a></div>
 </div>
 
 ---
@@ -70,12 +70,12 @@ author_profile: true
 
 <div class="paper-entry">
 <strong>The Impact of Emergency Call Centers: Evidence from France</strong>
-<div class="paper-meta">S. Karimi, <a href="https://www.irdes.fr/recherche/equipe/mousques-julien.html" target="_blank" style="color: inherit; text-decoration: none;">J. Mousquès</a>, T. Pelloquin, <a href="https://www.ehesp.fr/annuaire/enseignement-recherche/nicolas-sirven/" target="_blank" style="color: inherit; text-decoration: none;">N. Sirven</a></div>
+<div class="paper-meta">S. Karimi, <a href="https://www.irdes.fr/recherche/equipe/mousques-julien.html" target="_blank" style="color: inherit; text-decoration: none;">J. Mousquès</a>, <a href="https://www.parisschoolofeconomics.eu/personnes/thomas-pelloquin/" target="_blank" style="color: inherit; text-decoration: none;">T. Pelloquin</a>, <a href="https://www.ehesp.fr/annuaire/enseignement-recherche/nicolas-sirven/" target="_blank" style="color: inherit; text-decoration: none;">N. Sirven</a></div>
 </div>
 
 ---
 
 <div class="paper-entry">
 <strong>Hospital-at-Home: A Win-Win for Patients, Health Professionals, and Insurers?</strong>
-<div class="paper-meta">S. Karimi, T. Pelloquin</div>
+<div class="paper-meta">S. Karimi, <a href="https://www.parisschoolofeconomics.eu/personnes/thomas-pelloquin/" target="_blank" style="color: inherit; text-decoration: none;">T. Pelloquin</a></div>
 </div>
