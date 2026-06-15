@@ -58,7 +58,7 @@
 .paper-entry strong {
   font-family: inherit;
   font-weight: 700 !important;
-  font-size: 1rem;
+  font-size: inherit;  /* suit le contexte : 1rem pour le titre, 0.88em pour .paper-meta */
 }
 
 
