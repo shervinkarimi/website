@@ -87,7 +87,7 @@ You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank
     <div class="cv-title">Ph.D. in Economics</div>
     <div class="cv-institution">University of Rennes · CREM (CNRS UMR 6211)</div>
     <div class="cv-detail">
-      Title: <a href="https://theses.hal.science/tel-05521163/file/Karimi_Shervin.pdf" target="_blank" style="color: inherit; text-decoration: none;">"Four essays on ownership structure and organizational behavior"</a><br>
+      <strong>Title<strong>: <a href="https://theses.hal.science/tel-05521163/file/Karimi_Shervin.pdf" target="_blank" style="color: inherit; text-decoration: none;">"Four essays on ownership structure and organizational behavior"</a><br>
       President: <a href="https://www.josselinthuilliez.com/" target="_blank" style="color: inherit; text-decoration: none;">J. Thuilliez</a><br>
       Referees: <a href="https://sites.google.com/view/gabrielburdin" target="_blank" style="color: inherit; text-decoration: none;">G. Burdin</a>, <a href="https://sites.google.com/site/francoischarleswolff" target="_blank" style="color: inherit; text-decoration: none;">F.-C. Wolff</a><br>
       Jury: <a href="https://perso.uclouvain.be/anais.perilleux/" target="_blank" style="color: inherit; text-decoration: none;">A. Perilleux</a>, <a href="https://pro.institut-agro-rennes-angers.fr/fr/damien-rousseliere" target="_blank" style="color: inherit; text-decoration: none;">D. Roussilière</a><br>
