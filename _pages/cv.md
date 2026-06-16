@@ -84,7 +84,7 @@ You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank
 <div class="cv-entry">
   <span class="cv-year">2021–2025</span>
   <div>
-    <div class="cv-title">Ph.D. Economics</div>
+    <div class="cv-title">Ph.D. in Economics</div>
     <div class="cv-institution">University of Rennes · CREM (CNRS UMR 6211)</div>
     <div class="cv-detail">
       Title: "Four essays on ownership structure and organizational behavior"<br>
@@ -99,7 +99,7 @@ You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank
 <div class="cv-entry">
   <span class="cv-year">2012–2013</span>
   <div>
-    <div class="cv-title">MSc Economics of Markets and Organizations</div>
+    <div class="cv-title">MSc in Economics of Markets and Organizations</div>
     <div class="cv-institution">Toulouse School of Economics</div>
   </div>
 </div>
@@ -107,7 +107,7 @@ You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank
 <div class="cv-entry">
   <span class="cv-year">2010–2013</span>
   <div>
-    <div class="cv-title">MSc Air Transport Engineering</div>
+    <div class="cv-title">MSc in Air Transport Engineering</div>
     <div class="cv-institution">French School of Civil Aviation (ENAC)</div>
   </div>
 </div>
@@ -115,7 +115,7 @@ You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank
 <div class="cv-entry">
   <span class="cv-year">2008–2010</span>
   <div>
-    <div class="cv-title">Preparatory School · Mathematics & Physics</div>
+    <div class="cv-title">Preparatory School in Mathematics & Physics</div>
     <div class="cv-institution">Lycée Paul Cézanne</div>
   </div>
 </div>
