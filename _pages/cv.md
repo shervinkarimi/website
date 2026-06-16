@@ -88,10 +88,10 @@ You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank
     <div class="cv-institution">University of Rennes · CREM (CNRS UMR 6211)</div>
     <div class="cv-detail">
       Title: "Four essays on ownership structure and organizational behavior"<br>
-      President: Josselin Thuilliez<br>
-      Referees: Gabriel Burdin, François-Charles Wolff<br>
-      Jury: Anaïs Perilleux, Damien Roussilière<br>
-      Supervisors: Simon Cornée, Véronique Thelen
+      President: <a href="https://www.josselinthuilliez.com/" target="_blank" style="color: inherit; text-decoration: none;">J. Thuilliez</a><br>
+      Referees: <a href="https://sites.google.com/view/gabrielburdin" target="_blank" style="color: inherit; text-decoration: none;">G. Burdin</a>, <a href="https://sites.google.com/site/francoischarleswolff" target="_blank" style="color: inherit; text-decoration: none;">F.-C. Wolff</a><br>
+      Jury: <a href="https://perso.uclouvain.be/anais.perilleux/" target="_blank" style="color: inherit; text-decoration: none;">A. Perilleux</a>, <a href="https://pro.institut-agro-rennes-angers.fr/fr/damien-rousseliere" target="_blank" style="color: inherit; text-decoration: none;">D. Roussilière</a><br>
+      Supervisors: <a href="https://sites.google.com/site/corneebzh/" target="_blank" style="color: inherit; text-decoration: none;">S. Cornée</a>, <a href="https://sites.google.com/site/thelenveronique/" target="_blank" style="color: inherit; text-decoration: none;">V. Thelen</a>
     </div>
   </div>
 </div>
