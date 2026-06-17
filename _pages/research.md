@@ -33,7 +33,7 @@ author_profile: true
 
 <div class="paper-entry">
 <strong>Comparing the Employment Sensitivity of Third Sector and Conventional Organisations over the Business Cycle</strong>
-<div class="paper-meta"><a href="https://sites.google.com/site/corneebzh/" target="_blank" style="color: inherit; text-decoration: none;">S. Cornée</a>, S. Karimi, <a href="https://sites.google.com/site/thelenveronique/" target="_blank" style="color: inherit; text-decoration: none;">V. Thelen</a> · <strong>R&R Nonprofit and Voluntary Sector Quarterly</strong><br>
+<div class="paper-meta"><a href="https://sites.google.com/site/corneebzh/" target="_blank" class="author-link">S. Cornée</a>, S. Karimi, <a href="https://sites.google.com/site/thelenveronique/" target="_blank" class="author-link">V. Thelen</a> · <strong>R&R Nonprofit and Voluntary Sector Quarterly</strong><br>
 <a href="javascript:void(0)" onclick="var d=document.getElementById('abs3');d.style.display=d.style.display==='none'?'block':'none';">Abstract</a> | <a href="{{ site.baseurl }}/files/Third_Sector_over_Business_Cycle.pdf" target="_blank">PDF</a>
 </div>
 </div>
@@ -49,33 +49,33 @@ author_profile: true
 
 <div class="paper-entry">
 <strong>Ownership Structure and Absenteeism</strong>
-<div class="paper-meta">S. Karimi, <a href="https://sites.google.com/site/corneebzh/" target="_blank" style="color: inherit; text-decoration: none;">S. Cornée</a>, <a href="https://sites.google.com/site/thelenveronique/" target="_blank" style="color: inherit; text-decoration: none;">V. Thelen</a></div>
+<div class="paper-meta">S. Karimi, <a href="https://sites.google.com/site/corneebzh/" target="_blank" class="author-link">S. Cornée</a>, <a href="https://sites.google.com/site/thelenveronique/" target="_blank" class="author-link">V. Thelen</a></div>
 </div>
 
 ---
 
 <div class="paper-entry">
 <strong>The Visible Hand of Emergency Care</strong>
-<div class="paper-meta">S. Karimi, <a href="https://www.irdes.fr/recherche/equipe/mousques-julien.html" target="_blank" style="color: inherit; text-decoration: none;">J. Mousquès</a>, <a href="https://www.parisschoolofeconomics.eu/personnes/thomas-pelloquin/" target="_blank" style="color: inherit; text-decoration: none;">T. Pelloquin</a>, <a href="https://www.ehesp.fr/annuaire/enseignement-recherche/nicolas-sirven/" target="_blank" style="color: inherit; text-decoration: none;">N. Sirven</a></div>
+<div class="paper-meta">S. Karimi, <a href="https://www.irdes.fr/recherche/equipe/mousques-julien.html" target="_blank" class="author-link">J. Mousquès</a>, <a href="https://www.parisschoolofeconomics.eu/personnes/thomas-pelloquin/" target="_blank" class="author-link">T. Pelloquin</a>, <a href="https://www.ehesp.fr/annuaire/enseignement-recherche/nicolas-sirven/" target="_blank" class="author-link">N. Sirven</a></div>
 </div>
 
 ---
 
 <div class="paper-entry">
 <strong>Access to Care and Avoidable Consultations: The Redistributive Effects of e-Consultations</strong>
-<div class="paper-meta">S. Karimi, <a href="https://sites.google.com/view/mathieu-lambotte" target="_blank" style="color: inherit; text-decoration: none;">M. Lambotte</a></div>
+<div class="paper-meta">S. Karimi, <a href="https://sites.google.com/view/mathieu-lambotte" target="_blank" class="author-link">M. Lambotte</a></div>
 </div>
 
 ---
 
 <div class="paper-entry">
 <strong>The Impact of Emergency Call Centers: Evidence from France</strong>
-<div class="paper-meta">S. Karimi, <a href="https://www.irdes.fr/recherche/equipe/mousques-julien.html" target="_blank" style="color: inherit; text-decoration: none;">J. Mousquès</a>, <a href="https://www.parisschoolofeconomics.eu/personnes/thomas-pelloquin/" target="_blank" style="color: inherit; text-decoration: none;">T. Pelloquin</a>, <a href="https://www.ehesp.fr/annuaire/enseignement-recherche/nicolas-sirven/" target="_blank" style="color: inherit; text-decoration: none;">N. Sirven</a></div>
+<div class="paper-meta">S. Karimi, <a href="https://www.irdes.fr/recherche/equipe/mousques-julien.html" target="_blank" class="author-link">J. Mousquès</a>, <a href="https://www.parisschoolofeconomics.eu/personnes/thomas-pelloquin/" target="_blank" class="author-link">T. Pelloquin</a>, <a href="https://www.ehesp.fr/annuaire/enseignement-recherche/nicolas-sirven/" target="_blank" class="author-link">N. Sirven</a></div>
 </div>
 
 ---
 
 <div class="paper-entry">
 <strong>Hospital-at-Home: A Win-Win for Patients, Health Professionals, and Insurers?</strong>
-<div class="paper-meta">S. Karimi, <a href="https://www.parisschoolofeconomics.eu/personnes/thomas-pelloquin/" target="_blank" style="color: inherit; text-decoration: none;">T. Pelloquin</a></div>
+<div class="paper-meta">S. Karimi, <a href="https://www.parisschoolofeconomics.eu/personnes/thomas-pelloquin/" target="_blank" class="author-link">T. Pelloquin</a></div>
 </div>
