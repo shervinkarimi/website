@@ -62,9 +62,10 @@
 
 
 .paper-meta a:not(.author-link) {
-  color: #428bca;
-  text-decoration: none !important;
+  color: inherit;
+  text-decoration: none;
 }
+
 .paper-meta a:not(.author-link):hover {
   color: inherit;
 }
