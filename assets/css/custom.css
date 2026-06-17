@@ -60,6 +60,10 @@
   font-size: inherit;  /* suit le contexte : 1rem pour le titre, 0.88em pour .paper-meta */
 }
 
+.paper-meta {
+  font-size: 0.88em;
+  color: #555;
+}
 
 .paper-meta a:not(.author-link) {
   color: inherit;
