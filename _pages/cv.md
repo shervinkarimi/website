@@ -87,11 +87,11 @@ You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank
     <div class="cv-title">Ph.D. in Economics</div>
     <div class="cv-institution">University of Rennes · CREM (CNRS UMR 6211)</div>
     <div class="cv-detail">
-      <strong>Title</strong>: <a href="https://theses.hal.science/tel-05521163/file/Karimi_Shervin.pdf" target="_blank" style="color: inherit; text-decoration: none;">"Four essays on ownership structure and organizational behavior"</a><br>
-      <strong>Chair</strong>: <a href="https://www.josselinthuilliez.com/" target="_blank" style="color: inherit; text-decoration: none;">J. Thuilliez</a><br>
-      <strong>Referees</strong>: <a href="https://sites.google.com/view/gabrielburdin" target="_blank" style="color: inherit; text-decoration: none;">G. Burdin</a>, <a href="https://sites.google.com/site/francoischarleswolff" target="_blank" style="color: inherit; text-decoration: none;">F.-C. Wolff</a><br>
-      <strong>Committee</strong>: <a href="https://perso.uclouvain.be/anais.perilleux/" target="_blank" style="color: inherit; text-decoration: none;">A. Perilleux</a>, <a href="https://pro.institut-agro-rennes-angers.fr/fr/damien-rousseliere" target="_blank" style="color: inherit; text-decoration: none;">D. Roussilière</a><br>
-      <strong>Supervisors</strong>: <a href="https://sites.google.com/site/corneebzh/" target="_blank" style="color: inherit; text-decoration: none;">S. Cornée</a>, <a href="https://sites.google.com/site/thelenveronique/" target="_blank" style="color: inherit; text-decoration: none;">V. Thelen</a>
+      <strong>Title</strong>: <a href="https://theses.hal.science/tel-05521163/file/Karimi_Shervin.pdf" target="_blank" class="author-link">"Four essays on ownership structure and organizational behavior"</a><br>
+      <strong>Chair</strong>: <a href="https://www.josselinthuilliez.com/" target="_blank" class="author-link">J. Thuilliez</a><br>
+      <strong>Referees</strong>: <a href="https://sites.google.com/view/gabrielburdin" target="_blank" class="author-link">G. Burdin</a>, <a href="https://sites.google.com/site/francoischarleswolff" target="_blank" class="author-link">F.-C. Wolff</a><br>
+      <strong>Committee</strong>: <a href="https://perso.uclouvain.be/anais.perilleux/" target="_blank" class="author-link">A. Perilleux</a>, <a href="https://pro.institut-agro-rennes-angers.fr/fr/damien-rousseliere" target="_blank" class="author-link">D. Roussilière</a><br>
+      <strong>Supervisors</strong>: <a href="https://sites.google.com/site/corneebzh/" target="_blank" class="author-link">S. Cornée</a>, <a href="https://sites.google.com/site/thelenveronique/" target="_blank" class="author-link">V. Thelen</a>
     </div>
   </div>
 </div>
