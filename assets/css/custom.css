@@ -63,10 +63,9 @@
 
 .paper-meta a:not(.author-link) {
   color: #428bca;
-  text-decoration: none;
+  text-decoration: none !important;
 }
-
-.paper-meta a:hover {
+.paper-meta a:not(.author-link):hover {
   color: inherit;
 }
 
@@ -86,9 +85,9 @@ strong {
 
 .author-link {
   color: #4A6B8A;
-  text-decoration: none;
+  text-decoration: none !important;
 }
 .author-link:hover {
   color: #6E94B8;
-  text-decoration: none;
+  text-decoration: none !important;
 }
