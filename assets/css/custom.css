@@ -66,12 +66,11 @@
 }
 
 .paper-meta a:not(.author-link) {
-  color: inherit;
+  color: #428bca;
   text-decoration: none;
 }
-
 .paper-meta a:not(.author-link):hover {
-  color: inherit;
+  color: #2a6496;
 }
 
 .paper-abstract {
