@@ -66,11 +66,11 @@
 }
 
 .paper-meta a:not(.author-link) {
-  color: #428bca;
+  color: #52ADC8;
   text-decoration: none;
 }
 .paper-meta a:not(.author-link):hover {
-  color: #2a6496;
+  color: #52ADC8;
 }
 
 .paper-abstract {
