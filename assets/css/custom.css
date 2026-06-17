@@ -61,10 +61,9 @@
 }
 
 
-.paper-meta a {
-  color: #4A6B8A;
+.paper-meta a:not(.author-link) {
+  color: #428bca;
   text-decoration: none;
-  transition: color 0.15s ease;
 }
 
 .paper-meta a:hover {
@@ -83,4 +82,13 @@
 
 strong {
   font-weight: 700;
+}
+
+.author-link {
+  color: #4A6B8A;
+  text-decoration: none;
+}
+.author-link:hover {
+  color: #6E94B8;
+  text-decoration: none;
 }
