@@ -94,9 +94,11 @@ strong {
 
 .author-link {
   color: inherit;
+  /* color: #4A6B8A; */
   text-decoration: none !important;
 }
 .author-link:hover {
   color: inherit;
+  /* color: #4A6B8A; */
   text-decoration: none !important;
 }
