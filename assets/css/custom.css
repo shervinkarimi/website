@@ -45,10 +45,15 @@
   line-height: 1.4;
 }
 
+.cv-institution {
+  font-size: 0.88em;
+}
 .cv-section .cv-detail {
-  font-size: 0.82em;
+  font-size: 0.88em;
   font-style: normal;
 }
+
+
 
 .paper-entry {
   margin-bottom: 1.5em;
@@ -88,10 +93,10 @@ strong {
 }
 
 .author-link {
-  /*color: #4A6B8A;*/
+  color: inherit;
   text-decoration: none !important;
 }
 .author-link:hover {
-  /*color: #6E94B8;*/
+  color: inherit;
   text-decoration: none !important;
 }
