@@ -88,10 +88,10 @@ strong {
 }
 
 .author-link {
-  color: #4A6B8A;
+  /*color: #4A6B8A;*/
   text-decoration: none !important;
 }
 .author-link:hover {
-  color: #6E94B8;
+  /*color: #6E94B8;*/
   text-decoration: none !important;
 }
