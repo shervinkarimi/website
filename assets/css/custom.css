@@ -104,14 +104,21 @@ strong {
 }
 
 
-/* Garde la colonne de gauche stable, sans fondu, à chaque changement de page */
+/* Le fondu d'apparition s'applique au contenu de droite, pas à la colonne de gauche */
+#main {
+  animation: none !important;
+}
+.page,
+.archive {
+  animation: intro 0.3s both !important;
+}
 .sidebar,
 .sidebar * {
   animation: none !important;
   opacity: 1 !important;
 }
 
-/* Neutralise le fondu "intro" qui se rejoue à chaque changement de page */
+/* Neutralise le fondu "intro" qui se rejoue à chaque changement de page 
 @keyframes intro {
   from { opacity: 1; }
   to { opacity: 1; }
@@ -120,4 +127,4 @@ strong {
   from { opacity: 1; }
   to { opacity: 1; }
 }
-
+*/
