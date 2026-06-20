@@ -5,8 +5,8 @@ permalink: /opensource/
 ---
 
 
-<h2 style="border-bottom: 1.5px solid #ccc; padding-bottom: 6px;">LaTex Templates</h2>
-Check out Kyle Butts LaTex <a href="https://github.com/kylebutts/latex-templates" target="_blank">templates</a>.
+<h2 style="border-bottom: 1.5px solid #ccc; padding-bottom: 6px;">Latex Templates</h2>
+Check out Kyle Butts Latex <a href="https://github.com/kylebutts/latex-templates" target="_blank">templates</a>.
 
 
 
