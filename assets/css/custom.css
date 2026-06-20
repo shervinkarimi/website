@@ -104,10 +104,11 @@ strong {
 }
 
 
-/* Empêche la colonne de gauche de clignoter au changement de page (Turbo) */
+/* Garde la colonne de gauche stable, sans fondu, à chaque changement de page */
 .sidebar,
 .sidebar * {
   animation: none !important;
+  opacity: 1 !important;
 }
 
 /* Neutralise le fondu "intro" qui se rejoue à chaque changement de page 
