@@ -102,3 +102,10 @@ strong {
   /* color: #4A6B8A; */
   text-decoration: none !important;
 }
+
+
+/* Empêche la colonne de gauche de clignoter au changement de page (Turbo) */
+.sidebar,
+.sidebar * {
+  animation: none !important;
+}
