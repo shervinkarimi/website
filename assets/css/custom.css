@@ -111,7 +111,7 @@ strong {
   opacity: 1 !important;
 }
 
-/* Neutralise le fondu "intro" qui se rejoue à chaque changement de page 
+/* Neutralise le fondu "intro" qui se rejoue à chaque changement de page */
 @keyframes intro {
   from { opacity: 1; }
   to { opacity: 1; }
@@ -120,4 +120,4 @@ strong {
   from { opacity: 1; }
   to { opacity: 1; }
 }
-*/
+
