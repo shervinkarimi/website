@@ -19,11 +19,11 @@ The French National Health Database (<a href="https://www.snds.gouv.fr/SNDS/Qu-e
 
 Access to the data requires authorization from national authorities (<a href="https://www.health-data-hub.fr/starter-kit" target="_blank">CESREES and CNIL</a>),  or permanent access granted to academic laboratories. For international researchers, since obtaining authorization can be difficult in practice, research is generally conducted in partnership with local researchers.
 
-Extraction code will be available soon for
+<p style="margin: 0;">Extraction code will be available soon for:</p>
 <ul style="line-height: 1.2; margin: 0; padding-left: 1.2em;">
   <li style="margin-bottom: 2px;">Hospitalizations (MCO)</li>
   <li style="margin-bottom: 2px;">Hospitalization-at-home (HAD)</li>
-  <li style="margin-bottom: 2px;">Emergency departement visits (MCO)</li>
+  <li style="margin-bottom: 2px;">Emergency department visits (MCO)</li>
   <li style="margin-bottom: 2px;">Physician visits (DCIR)</li>
 </ul>
 
