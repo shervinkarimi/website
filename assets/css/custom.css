@@ -159,3 +159,14 @@ strong {
 .masthead__menu-item.selected a {
   color: #000 !important;
 }
+
+
+
+
+
+/* Empêche la bande du haut de clignoter au changement de page (Turbo) */
+.masthead,
+.masthead *,
+.greedy-nav {
+  animation: none !important;
+}
