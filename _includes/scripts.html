@@ -2,6 +2,36 @@
 
 <script type="module" src="{{ base_path }}/assets/js/turbo.js"></script>
 
+<!-- Met à jour l'onglet actif du menu après chaque navigation Turbo -->
+<script data-turbo-eval="false">
+  function updateActiveTab() {
+    var items = Array.prototype.slice.call(document.querySelectorAll('.masthead__menu-item'));
+    var links = items
+      .map(function (it) {
+        var a = it.querySelector('a[href]');
+        return a ? { it: it, path: new URL(a.href).pathname.replace(/\/+$/, '') } : null;
+      })
+      .filter(function (x) { return x; });
+    if (!links.length) return;
+    var rootPath = links.reduce(function (min, x) {
+      return x.path.length < min.length ? x.path : min;
+    }, links[0].path);
+    var here = location.pathname.replace(/\/+$/, '');
+    links.forEach(function (x) {
+      x.it.classList.remove('selected');
+      var match = (x.path === here) || (x.path !== rootPath && here.indexOf(x.path + '/') === 0);
+      if (match) x.it.classList.add('selected');
+    });
+  }
+  document.addEventListener('turbo:load', updateActiveTab);
+</script>
+
+{% include analytics.html %}
+
+{% include comments-providers/scripts.html %}<script type="module" src="{{ base_path }}/assets/js/main.min.js"></script>
+
+<script type="module" src="{{ base_path }}/assets/js/turbo.js"></script>
+
 {% include analytics.html %}
 
 {% include comments-providers/scripts.html %}
