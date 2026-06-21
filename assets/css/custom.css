@@ -70,6 +70,8 @@
   color: #555;
 }
 
+
+/*
 .paper-meta a:not(.author-link) {
   color: #52ADC8;
   text-decoration: none;
@@ -77,6 +79,26 @@
 .paper-meta a:not(.author-link):hover {
   color: #52ADC8;
 }
+*/
+
+.paper-meta a:not(.author-link) {
+  display: inline-block;
+  padding: 2px 9px;
+  margin-right: 6px;
+  border: 1px solid #52ADC8;
+  border-radius: 4px;
+  color: #52ADC8;
+  text-decoration: none;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+.paper-meta a:not(.author-link):hover {
+  background-color: #52ADC8;
+  color: #fff;
+}
+
+
+
+
 
 .paper-abstract {
   display: none;
