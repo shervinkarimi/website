@@ -138,7 +138,7 @@ strong {
 .masthead__menu,
 .masthead__menu-item,
 .masthead__menu-item a {
-  background-color: #f2f3f3 !important;
+  background-color: #1f4b8e !important;
 }
 
 
@@ -147,19 +147,18 @@ strong {
 /* ===== Texte des onglets du menu en noir ===== */
 /* Couleur normale des libellés d'onglets (CV, Research, etc.) */
 .masthead__menu-item a {
-  color: #000 !important;
+  color: #FFFFFF !important;
 }
 
 /* Garde le noir au survol de la souris (sinon le thème le change) */
 .masthead__menu-item a:hover {
-  color: #000 !important;
+  color: #FFFFFF !important;
 }
 
 /* Garde le noir sur l'onglet actif (la page où tu te trouves) */
 .masthead__menu-item.selected a {
-  color: #000 !important;
+  color: #FFFFFF !important;
 }
-
 
 
 
@@ -172,16 +171,22 @@ strong {
 .greedy-nav {
   animation: none !important;
 }
-
 /* Enlève le carré bleu de focus sur les onglets cliqués à la souris */
 .masthead__menu-item a:focus:not(:focus-visible) {
   outline: none !important;
   box-shadow: none !important;
 }
-
-/* Onglet actif : souligné au lieu de gras (évite tout décalage) */
-.masthead__menu-item.selected a {
-  font-weight: normal !important;
-  text-decoration: underline !important;
-  text-underline-offset: 4px;
+/* Empêche le texte de se décaler quand l'onglet actif passe en gras */
+.masthead__menu-item a {
+  display: inline-block;
 }
+.masthead__menu-item a::after {
+  content: attr(data-title);
+  content: attr(title);
+  display: block;
+  font-weight: 700;
+  height: 0;
+  overflow: hidden;
+  visibility: hidden;
+}
+
