@@ -129,7 +129,9 @@ strong {
 }
 */
 
-/* Bande du haut (menu) légèrement grisée */
-.masthead {
+/* Bande du haut + barre de navigation légèrement grisées */
+.masthead,
+.greedy-nav,
+.greedy-nav .hidden-links {
   background-color: #f2f3f3 !important;
 }
