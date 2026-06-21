@@ -141,29 +141,26 @@ strong {
   background-color: #f8f9f9 !important;
 }
 
-
-
-
-/* ===== Texte des onglets du menu en noir ===== */
-/* Couleur normale des libellés d'onglets (CV, Research, etc.) */
+/* ===== Texte des onglets : même police et même graisse que le site ===== */
 .masthead__menu-item a {
-  color: #000000  !important;
+  color: #000000 !important;
+  font-family: inherit !important;   /* même police que le contenu */
+  font-weight: 400 !important;       /* graisse normale, comme le texte courant */
+  text-transform: none !important;   /* enlève d'éventuelles majuscules forcées */
+  letter-spacing: normal !important; /* enlève l'espacement spécial du menu */
 }
 
-/* Garde le noir au survol de la souris (sinon le thème le change) */
 .masthead__menu-item a:hover {
-  color: #000000  !important;
+  color: #000000 !important;
 }
 
-/* Garde le noir sur l'onglet actif (la page où tu te trouves) */
+/* Onglet actif : souligné au lieu de gras (évite tout décalage) */
 .masthead__menu-item.selected a {
-  color: #000000  !important;
+  color: #000000 !important;
+  font-weight: 400 !important;
+  text-decoration: underline !important;
+  text-underline-offset: 4px;
 }
-
-
-
-
-
 
 /* Empêche la bande du haut de clignoter au changement de page (Turbo) */
 .masthead,
@@ -171,22 +168,10 @@ strong {
 .greedy-nav {
   animation: none !important;
 }
+
 /* Enlève le carré bleu de focus sur les onglets cliqués à la souris */
 .masthead__menu-item a:focus:not(:focus-visible) {
   outline: none !important;
   box-shadow: none !important;
-}
-/* Empêche le texte de se décaler quand l'onglet actif passe en gras */
-.masthead__menu-item a {
-  display: inline-block;
-}
-.masthead__menu-item a::after {
-  content: attr(data-title);
-  content: attr(title);
-  display: block;
-  font-weight: 700;
-  height: 0;
-  overflow: hidden;
-  visibility: hidden;
 }
 
