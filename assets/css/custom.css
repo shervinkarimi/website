@@ -186,3 +186,9 @@ strong {
 .page__title:empty {
   display: none !important;
 }
+
+
+/* Espace au-dessus du premier titre des pages Research (archive) */
+.archive > h2:first-of-type {
+  margin-top: 0.5em;
+}
