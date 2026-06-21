@@ -140,3 +140,22 @@ strong {
 .masthead__menu-item a {
   background-color: #f2f3f3 !important;
 }
+
+
+
+
+/* ===== Texte des onglets du menu en noir ===== */
+/* Couleur normale des libellés d'onglets (CV, Research, etc.) */
+.masthead__menu-item a {
+  color: #000 !important;
+}
+
+/* Garde le noir au survol de la souris (sinon le thème le change) */
+.masthead__menu-item a:hover {
+  color: #000 !important;
+}
+
+/* Garde le noir sur l'onglet actif (la page où tu te trouves) */
+.masthead__menu-item.selected a {
+  color: #000 !important;
+}
