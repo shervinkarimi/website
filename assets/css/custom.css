@@ -98,6 +98,11 @@
 */
 
 
+.paper-meta a:not(.author-link):focus:not(:focus-visible) {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
 
 
 .paper-abstract {
