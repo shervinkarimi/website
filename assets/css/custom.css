@@ -138,7 +138,7 @@ strong {
 .masthead__menu,
 .masthead__menu-item,
 .masthead__menu-item a {
-  background-color: #191970 !important;
+  background-color: #f8f9f9 !important;
 }
 
 
@@ -147,17 +147,17 @@ strong {
 /* ===== Texte des onglets du menu en noir ===== */
 /* Couleur normale des libellés d'onglets (CV, Research, etc.) */
 .masthead__menu-item a {
-  color: #FFFFFF !important;
+  color: #000000  !important;
 }
 
 /* Garde le noir au survol de la souris (sinon le thème le change) */
 .masthead__menu-item a:hover {
-  color: #FFFFFF !important;
+  color: #000000  !important;
 }
 
 /* Garde le noir sur l'onglet actif (la page où tu te trouves) */
 .masthead__menu-item.selected a {
-  color: #FFFFFF !important;
+  color: #000000  !important;
 }
 
 
