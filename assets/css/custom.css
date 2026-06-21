@@ -104,10 +104,7 @@ strong {
 }
 
 
-/* Masque le titre de page (vide) sur les pages archive, supprime l'espace en haut */
-.archive .page__title {
-  display: none;
-}
+
 
 
 
@@ -186,4 +183,13 @@ strong {
   height: 0;
   overflow: hidden;
   visibility: hidden;
+}
+
+
+
+
+
+/* Supprime le titre de page vide qui crée un espace en haut */
+.page__title:empty {
+  display: none !important;
 }
