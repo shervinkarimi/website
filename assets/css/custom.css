@@ -106,10 +106,10 @@ a:focus:not(:focus-visible) {
 
 /*Enlever le surligné sur les liens href*/
 a {
-  text-decoration: none;
+  text-decoration: none !important;
 }
 a:hover {
-  text-decoration: underline;
+  text-decoration: none !important;
 }
 
 .paper-abstract {
