@@ -1,9 +1,11 @@
 ---
-layout: single
+layout: archive
 title: ""
 permalink: /opensource/
+author_profile: true
 ---
 
+{% include base_path %}
 
 <h2 style="border-bottom: 1.5px solid #ccc; padding-bottom: 6px;">Latex Templates</h2>
 Check out Kyle Butts Latex <a href="https://github.com/kylebutts/latex-templates" target="_blank">templates</a>.
