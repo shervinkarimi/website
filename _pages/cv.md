@@ -77,6 +77,9 @@ You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank
   </div>
 </div>
 
+
+
+<div style="margin-top: 4em;"></div>
 <h2>Education</h2>
 
 <div class="cv-entry">
