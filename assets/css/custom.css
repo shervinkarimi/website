@@ -128,3 +128,8 @@ strong {
   to { opacity: 1; }
 }
 */
+
+/* Bande du haut (menu) légèrement grisée */
+.masthead {
+  background-color: #f2f3f3 !important;
+}
