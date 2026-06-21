@@ -104,6 +104,17 @@ strong {
 }
 
 
+
+/* Supprime l'espace d'un titre de page vide (mise en page archive) */
+.page__title:empty {
+  display: none;
+}
+.archive .page__title:empty {
+  margin: 0;
+}
+
+
+
 /* Le fondu d'apparition s'applique au contenu de droite, pas à la colonne de gauche */
 #main {
   animation: none !important;
