@@ -129,9 +129,12 @@ strong {
 }
 */
 
-/* Bande du haut + barre de navigation légèrement grisées */
+/* Bande du haut + menu entièrement grisés, sans aucun rectangle blanc */
 .masthead,
 .greedy-nav,
-.greedy-nav .hidden-links {
+.greedy-nav button,
+.greedy-nav .visible-links,
+.greedy-nav .hidden-links,
+.greedy-nav .hidden-links a {
   background-color: #f2f3f3 !important;
 }
