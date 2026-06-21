@@ -141,11 +141,11 @@ strong {
   background-color: #f8f9f9 !important;
 }
 
-/* ===== Texte des onglets : même police et même graisse que le site ===== */
+/* ===== Texte des onglets : même police que le site, en gras ===== */
 .masthead__menu-item a {
   color: #000000 !important;
   font-family: inherit !important;   /* même police que le contenu */
-  font-weight: 400 !important;       /* graisse normale, comme le texte courant */
+  font-weight: 700 !important;       /* gras, dans la police du site */
   text-transform: none !important;   /* enlève d'éventuelles majuscules forcées */
   letter-spacing: normal !important; /* enlève l'espacement spécial du menu */
 }
@@ -154,10 +154,10 @@ strong {
   color: #000000 !important;
 }
 
-/* Onglet actif : souligné au lieu de gras (évite tout décalage) */
+/* Onglet actif : souligné, même graisse que les autres (évite tout décalage) */
 .masthead__menu-item.selected a {
   color: #000000 !important;
-  font-weight: 400 !important;
+  font-weight: 700 !important;
   text-decoration: underline !important;
   text-underline-offset: 4px;
 }
@@ -174,4 +174,3 @@ strong {
   outline: none !important;
   box-shadow: none !important;
 }
-
