@@ -164,6 +164,8 @@ strong {
 
 
 
+
+
 /* Empêche la bande du haut de clignoter au changement de page (Turbo) */
 .masthead,
 .masthead *,
@@ -177,16 +179,9 @@ strong {
   box-shadow: none !important;
 }
 
-/* Empêche le texte de se décaler quand l'onglet actif passe en gras */
-.masthead__menu-item a {
-  display: inline-block;
-}
-.masthead__menu-item a::after {
-  content: attr(data-title);
-  content: attr(title);
-  display: block;
-  font-weight: 700;
-  height: 0;
-  overflow: hidden;
-  visibility: hidden;
+/* Onglet actif : souligné au lieu de gras (évite tout décalage) */
+.masthead__menu-item.selected a {
+  font-weight: normal !important;
+  text-decoration: underline !important;
+  text-underline-offset: 4px;
 }
