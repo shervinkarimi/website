@@ -71,7 +71,7 @@
 }
 
 
-/*
+
 .paper-meta a:not(.author-link) {
   color: #52ADC8;
   text-decoration: none;
@@ -79,8 +79,8 @@
 .paper-meta a:not(.author-link):hover {
   color: #52ADC8;
 }
-*/
 
+/* Pour les boutons des abstracts et PDF
 .paper-meta a:not(.author-link) {
   display: inline-block;
   padding: 2px 9px;
@@ -95,7 +95,7 @@
   background-color: #52ADC8;
   color: #fff;
 }
-
+*/
 
 
 
