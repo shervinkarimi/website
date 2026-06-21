@@ -98,7 +98,8 @@
 */
 
 
-.paper-meta a:not(.author-link):focus:not(:focus-visible) {
+/* Enleve les carrés bleus qui apparaissent avec le clic sur un lien*/
+a:focus:not(:focus-visible) {
   outline: none !important;
   box-shadow: none !important;
 }
