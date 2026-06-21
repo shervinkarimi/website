@@ -129,6 +129,10 @@ strong {
 }
 */
 
+
+
+
+
 /* Bande du haut + menu entièrement grisés */
 .masthead,
 .greedy-nav,
@@ -140,18 +144,28 @@ strong {
 .masthead__menu-item a {
   background-color: #f8f9f9 !important;
 }
-/* ===== Texte des onglets du menu en noir ===== */
-/* Couleur normale des libellés d'onglets (CV, Research, etc.) */
+
+
+
+/* ===== Texte des onglets : exactement la même police que le corps du site ===== */
 .masthead__menu-item a {
-  color: #000000  !important;
+  color: #000000 !important;
+  font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !important;
+  font-weight: 700 !important;
+  text-transform: none !important;
+  letter-spacing: normal !important;
 }
 /* Garde le noir au survol de la souris (sinon le thème le change) */
 .masthead__menu-item a:hover {
   color: #000000  !important;
 }
-/* Garde le noir sur l'onglet actif (la page où tu te trouves) */
+/* Onglet actif : souligné, même police et même graisse */
 .masthead__menu-item.selected a {
-  color: #000000  !important;
+  color: #000000 !important;
+  font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !important;
+  font-weight: 700 !important;
+  text-decoration: underline !important;
+  text-underline-offset: 4px;
 }
 /* Empêche la bande du haut de clignoter au changement de page (Turbo) */
 .masthead,
