@@ -104,14 +104,11 @@ strong {
 }
 
 
-
-/* Supprime l'espace d'un titre de page vide (mise en page archive) */
-.page__title:empty {
+/* Masque le titre de page (vide) sur les pages archive, supprime l'espace en haut */
+.archive .page__title {
   display: none;
 }
-.archive .page__title:empty {
-  margin: 0;
-}
+
 
 
 
