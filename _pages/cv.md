@@ -46,7 +46,7 @@ You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank
   <div>
     <div class="cv-title">Teaching Assistant</div>
     <div class="cv-institution">University of Rennes</div>
-    <div class="cv-detail">64h/year: Econometrics (Master's), Macroeconomics (undergrad.), Statistics (undergrad.)</div>
+    <div class="cv-detail">64h/year of tutorials: Econometrics (Master's), Macroeconomics (undergrad.), Statistics (undergrad.)</div>
   </div>
 </div>
 
