@@ -37,7 +37,7 @@ You can find my full CV <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank
   <div>
     <div class="cv-title">Lecturer (A.T.E.R.)</div>
     <div class="cv-institution">University of Rennes</div>
-    <div class="cv-detail">192h of tutorials: Macroeconomics (1st- and 2nd-year undergrad.)</div>
+    <div class="cv-detail">192h of tutorials: Macroeconomics (undergrad.)</div>
   </div>
 </div>
 
