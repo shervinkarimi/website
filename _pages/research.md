@@ -57,7 +57,7 @@ author_profile: true
 
 <div class="paper-entry">
 <strong>The Visible Hand of Emergency Care</strong>
-<div class="paper-meta">S. Karimi, <a href="https://www.irdes.fr/recherche/equipe/mousques-julien.html" target="_blank" class="author-link">J. Mousquès</a>, <a href="https://www.parisschoolofeconomics.eu/personnes/thomas-pelloquin/" target="_blank" class="author-link">T. Pelloquin</a>, <a href="https://www.ehesp.fr/annuaire/enseignement-recherche/nicolas-sirven/" target="_blank" class="author-link">N. Sirven</a>
+<div class="paper-meta">S. Karimi, <a href="https://www.irdes.fr/recherche/equipe/mousques-julien.html" target="_blank" class="author-link">J. Mousquès</a>, <a href="https://www.parisschoolofeconomics.eu/personnes/thomas-pelloquin/" target="_blank" class="author-link">T. Pelloquin</a>, <a href="https://www.ehesp.fr/annuaire/enseignement-recherche/nicolas-sirven/" target="_blank" class="author-link">N. Sirven</a><br>
 <a href="javascript:void(0)" onclick="var d=document.getElementById('abs_visb_hand');d.style.display=d.style.display==='none'?'block':'none';">Short abstract</a>
 </div>
 </div>
