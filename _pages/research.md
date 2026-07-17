@@ -102,6 +102,18 @@ author_profile: true
 
 ---
 
+<div class="paper-entry">
+<strong>Hospital Cyberattacks and Community Care</strong>
+<div class="paper-meta">S. Karimi, , <a href="https://www.ehesp.fr/annuaire/enseignement-recherche/nicolas-sirven/" target="_blank" class="author-link">N. Sirven</a><br>
+<a href="javascript:void(0)" onclick="var d=document.getElementById('abs_cyber');d.style.display=d.style.display==='none'?'block':'none';">Short abstract</a> 
+</div>
+</div>
+
+<div id="abs_cyber" class="paper-abstract" style="display:none">The number of cyberattacks targeting hospitals has surged in recent years. This paper evaluates their spillover effects on community care providers and other hospitals, as well as their consequences for patients’ health.</div>
+
+
+---
+
 <!--
 <div class="paper-entry">
 <strong>Ownership Structure and Absenteeism</strong>
