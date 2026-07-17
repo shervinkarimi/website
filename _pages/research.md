@@ -109,7 +109,7 @@ author_profile: true
 </div>
 </div>
 
-<div id="abs_cyber" class="paper-abstract" style="display:none">The number of cyberattacks targeting hospitals has surged in recent years. This paper evaluates their spillover effects on community care providers and other hospitals, as well as their consequences for patients’ health.</div>
+<div id="abs_cyber" class="paper-abstract" style="display:none">The number of cyberattacks targeting hospitals has surged in recent years. This paper evaluates their spillover effects on community care providers and other hospitals, as well as the consequences for patients’ health.</div>
 
 
 ---
