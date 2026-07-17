@@ -47,12 +47,7 @@ author_profile: true
 
 <h2 style="border-bottom: 1.5px solid #ccc; padding-bottom: 6px;">Work in Progress</h2>
 
-<div class="paper-entry">
-<strong>Ownership Structure and Absenteeism</strong>
-<div class="paper-meta">S. Karimi, <a href="https://sites.google.com/site/corneebzh/" target="_blank" class="author-link">S. Cornée</a>, <a href="https://sites.google.com/site/thelenveronique/" target="_blank" class="author-link">V. Thelen</a></div>
-</div>
 
----
 
 <div class="paper-entry">
 <strong>The Visible Hand of Emergency Care</strong>
@@ -62,8 +57,8 @@ author_profile: true
 ---
 
 <div class="paper-entry">
-<strong>Access to Care and Avoidable Consultations: The Redistributive Effects of e-Consultations</strong>
-<div class="paper-meta">S. Karimi, <a href="https://sites.google.com/view/mathieu-lambotte" target="_blank" class="author-link">M. Lambotte</a></div>
+<strong>Hospital-at-Home: A Win-Win for Patients, Health Professionals, and Insurers?</strong>
+<div class="paper-meta">S. Karimi, <a href="https://www.parisschoolofeconomics.eu/personnes/thomas-pelloquin/" target="_blank" class="author-link">T. Pelloquin</a></div>
 </div>
 
 ---
@@ -76,6 +71,16 @@ author_profile: true
 ---
 
 <div class="paper-entry">
-<strong>Hospital-at-Home: A Win-Win for Patients, Health Professionals, and Insurers?</strong>
-<div class="paper-meta">S. Karimi, <a href="https://www.parisschoolofeconomics.eu/personnes/thomas-pelloquin/" target="_blank" class="author-link">T. Pelloquin</a></div>
+<strong>Access to Care and Avoidable Consultations: The Redistributive Effects of e-Consultations</strong>
+<div class="paper-meta">S. Karimi, <a href="https://sites.google.com/view/mathieu-lambotte" target="_blank" class="author-link">M. Lambotte</a></div>
 </div>
+
+
+---
+
+<div class="paper-entry">
+<strong>Ownership Structure and Absenteeism</strong>
+<div class="paper-meta">S. Karimi, <a href="https://sites.google.com/site/corneebzh/" target="_blank" class="author-link">S. Cornée</a>, <a href="https://sites.google.com/site/thelenveronique/" target="_blank" class="author-link">V. Thelen</a></div>
+</div>
+
+
