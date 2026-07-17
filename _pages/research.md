@@ -97,11 +97,12 @@ author_profile: true
 </div>
 </div>
 
-<div id="abs_tlxp" class="paper-abstract" style="display:none">This paper provides novel evidence on the effects of e-consultations between physicians on access to care and mortality.</div>
+<div id="abs_tlxp" class="paper-abstract" style="display:none">This paper provides novel evidence on the effects of physician-to-physician e-consultations on access to care and mortality. The analysis exploits the staggered adoption of e-consultations by physicians to evaluate their effects on healthcare providers and patients.</div>
 
 
 ---
 
+<!--
 <div class="paper-entry">
 <strong>Ownership Structure and Absenteeism</strong>
 <div class="paper-meta">S. Karimi, <a href="https://sites.google.com/site/corneebzh/" target="_blank" class="author-link">S. Cornée</a>, <a href="https://sites.google.com/site/thelenveronique/" target="_blank" class="author-link">V. Thelen</a><br>
@@ -110,5 +111,5 @@ author_profile: true
 </div>
 
 <div id="abs_own_abs" class="paper-abstract" style="display:none">We document the absenteeism gap between non-profit and for-profit employees.</div>
-
+-->
 
