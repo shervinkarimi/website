@@ -58,7 +58,7 @@ author_profile: true
 <div class="paper-entry">
 <strong>The Visible Hand of Emergency Care</strong>
 <div class="paper-meta">S. Karimi, <a href="https://www.irdes.fr/recherche/equipe/mousques-julien.html" target="_blank" class="author-link">J. Mousquès</a>, <a href="https://www.parisschoolofeconomics.eu/personnes/thomas-pelloquin/" target="_blank" class="author-link">T. Pelloquin</a>, <a href="https://www.ehesp.fr/annuaire/enseignement-recherche/nicolas-sirven/" target="_blank" class="author-link">N. Sirven</a><br>
-<a href="javascript:void(0)" onclick="var d=document.getElementById('abs_visb_hand');d.style.display=d.style.display==='none'?'block':'none';">Short abstract</a> | 
+<a href="javascript:void(0)" onclick="var d=document.getElementById('abs_visb_hand');d.style.display=d.style.display==='none'?'block':'none';">Short abstract</a> 
 </div>
 </div>
 
@@ -70,29 +70,45 @@ author_profile: true
 
 <div class="paper-entry">
 <strong>The Impact of Emergency Call Centers: Evidence from France</strong>
-<div class="paper-meta">S. Karimi, <a href="https://www.irdes.fr/recherche/equipe/mousques-julien.html" target="_blank" class="author-link">J. Mousquès</a>, <a href="https://www.parisschoolofeconomics.eu/personnes/thomas-pelloquin/" target="_blank" class="author-link">T. Pelloquin</a>, <a href="https://www.ehesp.fr/annuaire/enseignement-recherche/nicolas-sirven/" target="_blank" class="author-link">N. Sirven</a></div>
+<div class="paper-meta">S. Karimi, <a href="https://www.irdes.fr/recherche/equipe/mousques-julien.html" target="_blank" class="author-link">J. Mousquès</a>, <a href="https://www.parisschoolofeconomics.eu/personnes/thomas-pelloquin/" target="_blank" class="author-link">T. Pelloquin</a>, <a href="https://www.ehesp.fr/annuaire/enseignement-recherche/nicolas-sirven/" target="_blank" class="author-link">N. Sirven</a><br>
+<a href="javascript:void(0)" onclick="var d=document.getElementById('abs_sas');d.style.display=d.style.display==='none'?'block':'none';">Short abstract</a> 
 </div>
+</div>
+
+<div id="abs_sas" class="paper-abstract" style="display:none">This paper evaluates the staggered implementation of emergency call centers across French regions and its effects on hospitals and community care providers.</div>
 
 ---
 
 <div class="paper-entry">
 <strong>Hospital-at-Home: A Win-Win for Patients, Health Professionals, and Insurers?</strong>
-<div class="paper-meta">S. Karimi, <a href="https://www.parisschoolofeconomics.eu/personnes/thomas-pelloquin/" target="_blank" class="author-link">T. Pelloquin</a></div>
+<div class="paper-meta">S. Karimi, <a href="https://www.parisschoolofeconomics.eu/personnes/thomas-pelloquin/" target="_blank" class="author-link">T. Pelloquin</a><br>
+<a href="javascript:void(0)" onclick="var d=document.getElementById('abs_had');d.style.display=d.style.display==='none'?'block':'none';">Short abstract</a> 
 </div>
+</div>
+
+<div id="abs_had" class="paper-abstract" style="display:none">Hospital-at-Home has emerged as one of the major innovations in healthcare delivery over the past decade. This paper evaluates, for the first time, the causal impact of Hospital-at-Home on hospital establishments and patients’ health.</div>
 
 ---
 
 <div class="paper-entry">
 <strong>Access to Care and Avoidable Consultations: The Redistributive Effects of e-Consultations</strong>
-<div class="paper-meta">S. Karimi, <a href="https://sites.google.com/view/mathieu-lambotte" target="_blank" class="author-link">M. Lambotte</a></div>
+<div class="paper-meta">S. Karimi, <a href="https://sites.google.com/view/mathieu-lambotte" target="_blank" class="author-link">M. Lambotte</a><br>
+<a href="javascript:void(0)" onclick="var d=document.getElementById('abs_tlxp');d.style.display=d.style.display==='none'?'block':'none';">Short abstract</a> 
 </div>
+</div>
+
+<div id="abs_tlxp" class="paper-abstract" style="display:none">This paper provides novel evidence on the effects of e-consultations between physicians on access to care and mortality.</div>
 
 
 ---
 
 <div class="paper-entry">
 <strong>Ownership Structure and Absenteeism</strong>
-<div class="paper-meta">S. Karimi, <a href="https://sites.google.com/site/corneebzh/" target="_blank" class="author-link">S. Cornée</a>, <a href="https://sites.google.com/site/thelenveronique/" target="_blank" class="author-link">V. Thelen</a></div>
+<div class="paper-meta">S. Karimi, <a href="https://sites.google.com/site/corneebzh/" target="_blank" class="author-link">S. Cornée</a>, <a href="https://sites.google.com/site/thelenveronique/" target="_blank" class="author-link">V. Thelen</a><br>
+<a href="javascript:void(0)" onclick="var d=document.getElementById('abs_own_abs');d.style.display=d.style.display==='none'?'block':'none';">Short abstract</a> 
 </div>
+</div>
+
+<div id="abs_own_abs" class="paper-abstract" style="display:none">We document the absenteeism gap between non-profit and for-profit employees.</div>
 
 
