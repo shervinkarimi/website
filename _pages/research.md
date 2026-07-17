@@ -9,16 +9,6 @@ author_profile: true
 
 <h2 style="border-bottom: 1.5px solid #ccc; padding-bottom: 6px;">Working Papers</h2>
 
-<div class="paper-entry">
-<strong>A Non-Profit Discount? Wage Gap Analysis and Monetary Motives of Non-Profit and For-Profit Employees</strong>
-<div class="paper-meta">S. Karimi<br>
-<a href="javascript:void(0)" onclick="var d=document.getElementById('abs1');d.style.display=d.style.display==='none'?'block':'none';">Abstract</a> | <span style="color:#aaa">Draft available upon request</span>
-</div>
-</div>
-
-<div id="abs1" class="paper-abstract" style="display:none">This paper investigates the hourly wage gap between non-profit and for-profit employees. Leveraging employee mobility in the French labor market, the analysis estimates a two-way fixed effects model with worker and establishment fixed effects. A decomposition of the gap using these fixed effects reveals that the lower wage rates observed for non-profit employees are almost entirely driven by differences in the composition of employees across industries. Within industries, the wage premiums of non-profit and for-profit establishments do not differ on average, although the gap is sensitive to labor market conditions, market structure, and industry type. The paper further examines employees' motivations for switching organizational type, providing event study estimates. Employees moving from non-profit to for-profit organizations experience a sharp increase in earnings, suggesting monetary motives. In contrast, those moving in the opposite direction experience a drop in earnings, primarily among employees who face difficulties finding new jobs, indicating re-employment motives in joining non-profit establishments. These variations in earnings are largely driven by industry transitions and movement along the establishment ladder, suggesting that ownership structure plays a limited role in explaining the observed changes in wages.</div>
-
----
 
 <div class="paper-entry">
 <strong>Non-Profit vs. For-Profit Competition and Employment Implications: Evidence from Home Care</strong>
@@ -40,10 +30,26 @@ author_profile: true
 
 <div id="abs3" class="paper-abstract" style="display:none">This paper analyses, from a comparative perspective, the behaviour of private organisations characterised by distinct ownership structures over the business cycle. In particular, we gauge the sensitivity of third-sector employment (encompassing nonprofits and cooperatives) to macroeconomic fluctuations, relative to that of the conventional sector (comprising for-profit organisations). Drawing on a recently released French dataset covering the period from 2000 to 2019, our analysis reveals that the cyclical sensitivity of the third sector (i.e., social and solidarity economy sector) is systematically lower than that of the conventional sector. This difference is largely driven by the third sector's less cyclical behaviour during downturns. Our findings resist an array of robustness checks and are not affected by strong heterogeneity across types of activities and regional characteristics. Additionally, the cyclicality of the number of establishments is greater in the third sector than in the conventional sector, potentially contributing to the difference in employment sensitivities.</div>
 
+
+
+---
+
+<div class="paper-entry">
+<strong>A Non-Profit Discount? Wage Gap Analysis and Monetary Motives of Non-Profit and For-Profit Employees</strong>
+<div class="paper-meta">S. Karimi<br>
+<a href="javascript:void(0)" onclick="var d=document.getElementById('abs1');d.style.display=d.style.display==='none'?'block':'none';">Abstract</a> | <span style="color:#aaa">Draft available upon request</span>
+</div>
+</div>
+
+<div id="abs1" class="paper-abstract" style="display:none">This paper investigates the hourly wage gap between non-profit and for-profit employees. Leveraging employee mobility in the French labor market, the analysis estimates a two-way fixed effects model with worker and establishment fixed effects. A decomposition of the gap using these fixed effects reveals that the lower wage rates observed for non-profit employees are almost entirely driven by differences in the composition of employees across industries. Within industries, the wage premiums of non-profit and for-profit establishments do not differ on average, although the gap is sensitive to labor market conditions, market structure, and industry type. The paper further examines employees' motivations for switching organizational type, providing event study estimates. Employees moving from non-profit to for-profit organizations experience a sharp increase in earnings, suggesting monetary motives. In contrast, those moving in the opposite direction experience a drop in earnings, primarily among employees who face difficulties finding new jobs, indicating re-employment motives in joining non-profit establishments. These variations in earnings are largely driven by industry transitions and movement along the establishment ladder, suggesting that ownership structure plays a limited role in explaining the observed changes in wages.</div>
+
+
+
+
+
+
+
 <div style="margin-top: 4em;"></div>
-
-
-
 
 <h2 style="border-bottom: 1.5px solid #ccc; padding-bottom: 6px;">Work in Progress</h2>
 
