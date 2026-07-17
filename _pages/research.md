@@ -57,15 +57,15 @@ author_profile: true
 ---
 
 <div class="paper-entry">
-<strong>Hospital-at-Home: A Win-Win for Patients, Health Professionals, and Insurers?</strong>
-<div class="paper-meta">S. Karimi, <a href="https://www.parisschoolofeconomics.eu/personnes/thomas-pelloquin/" target="_blank" class="author-link">T. Pelloquin</a></div>
+<strong>The Impact of Emergency Call Centers: Evidence from France</strong>
+<div class="paper-meta">S. Karimi, <a href="https://www.irdes.fr/recherche/equipe/mousques-julien.html" target="_blank" class="author-link">J. Mousquès</a>, <a href="https://www.parisschoolofeconomics.eu/personnes/thomas-pelloquin/" target="_blank" class="author-link">T. Pelloquin</a>, <a href="https://www.ehesp.fr/annuaire/enseignement-recherche/nicolas-sirven/" target="_blank" class="author-link">N. Sirven</a></div>
 </div>
 
 ---
 
 <div class="paper-entry">
-<strong>The Impact of Emergency Call Centers: Evidence from France</strong>
-<div class="paper-meta">S. Karimi, <a href="https://www.irdes.fr/recherche/equipe/mousques-julien.html" target="_blank" class="author-link">J. Mousquès</a>, <a href="https://www.parisschoolofeconomics.eu/personnes/thomas-pelloquin/" target="_blank" class="author-link">T. Pelloquin</a>, <a href="https://www.ehesp.fr/annuaire/enseignement-recherche/nicolas-sirven/" target="_blank" class="author-link">N. Sirven</a></div>
+<strong>Hospital-at-Home: A Win-Win for Patients, Health Professionals, and Insurers?</strong>
+<div class="paper-meta">S. Karimi, <a href="https://www.parisschoolofeconomics.eu/personnes/thomas-pelloquin/" target="_blank" class="author-link">T. Pelloquin</a></div>
 </div>
 
 ---
