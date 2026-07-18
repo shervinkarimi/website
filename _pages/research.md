@@ -109,7 +109,7 @@ author_profile: true
 </div>
 </div>
 
-<div id="abs_cyber" class="paper-abstract" style="display:none">Cyberattacks targeting hospitals have surged in recent years. This paper provides the first evidence on their spillover effects on community care providers, neighboring hospitals, and patient mortality.</div>
+<div id="abs_cyber" class="paper-abstract" style="display:none">Cyberattacks targeting hospitals have surged in recent years. This paper examines their spillover effects on community care providers, neighboring hospitals, and patient mortality.</div>
 
 
 ---
