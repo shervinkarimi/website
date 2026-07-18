@@ -62,7 +62,7 @@ author_profile: true
 </div>
 </div>
 
-<div id="abs_visb_hand" class="paper-abstract" style="display:none">We provide novel evidence on the impact of emergency department gatekeeping on care providers and patients by leveraging a unique natural experiment: a mandatory triage policy in a French region.</div>
+<div id="abs_visb_hand" class="paper-abstract" style="display:none">We provide novel evidence on the impact of emergency department gatekeeping on hospitals and patients by leveraging a unique natural experiment: a mandatory triage policy in a French region.</div>
 
 
 
@@ -86,7 +86,7 @@ author_profile: true
 </div>
 </div>
 
-<div id="abs_had" class="paper-abstract" style="display:none">Hospital-at-Home has emerged as one of the major innovations in healthcare delivery over the past decade. This paper evaluates, for the first time, the causal impact of Hospital-at-Home on hospital establishments and patients’ health.</div>
+<div id="abs_had" class="paper-abstract" style="display:none">Hospital-at-Home has emerged as one of the major innovations in healthcare delivery over the past decade. This paper evaluates, for the first time, the causal impact of Hospital-at-Home on healthcare costs and patient health outcomes.</div>
 
 ---
 
@@ -109,7 +109,7 @@ author_profile: true
 </div>
 </div>
 
-<div id="abs_cyber" class="paper-abstract" style="display:none">The number of cyberattacks targeting hospitals has surged in recent years. This paper evaluates their spillover effects on community care providers and other hospitals, as well as the consequences for patients’ health.</div>
+<div id="abs_cyber" class="paper-abstract" style="display:none">Cyberattacks targeting hospitals have surged in recent years. This paper provides the first evidence on their spillover effects on community care providers, neighboring hospitals, and patient mortality.</div>
 
 
 ---
